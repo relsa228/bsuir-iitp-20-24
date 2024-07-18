@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Icons/MainIcon">
+        <file>Resources/MainIcons/free-icon-book-4341050.png</file>
+    </qresource>
+    <qresource prefix="/Icons/Icon">
+        <file>Resources/Icons/free-icon-pig-4582868.png</file>
+        <file>Resources/Icons/free-icon-rat-4484393.png</file>
+        <file>Resources/Icons/free-icon-rooting-3953651.png</file>
+        <file>Resources/Icons/free-icon-snake-4484395.png</file>
+        <file>Resources/Icons/free-icon-sun-4200126.png</file>
+        <file>Resources/Icons/free-icon-worldwide-4481052.svg</file>
+        <file>Resources/Icons/free-icon-sun-4481052.svg</file>
+    </qresource>
+</RCC>

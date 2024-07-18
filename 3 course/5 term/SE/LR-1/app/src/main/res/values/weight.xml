@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weight_list">
+        <item>Килограммы (kg)</item>
+        <item>Тонны (t)</item>
+        <item>Унции (oz)</item>
+        <item>Фунты (lb)</item>
+    </string-array>
+</resources>

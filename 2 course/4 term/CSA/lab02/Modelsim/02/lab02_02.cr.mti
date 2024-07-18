@@ -1,0 +1,42 @@
+C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/lab02_02.sv {1 {vlog -work work -vopt -sv -nocovercells C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/lab02_02.sv
+Model Technology ModelSim SE vlog 6.5b Compiler 2009.05 May 21 2009
+-- Compiling package lab02_02_sv_unit
+-- Importing package room_state
+-- Compiling module lab02_02
+
+Top level modules:
+	lab02_02
+
+} {} {}} C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/sword_machine.sv {1 {vlog -work work -vopt -sv -nocovercells C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/sword_machine.sv
+Model Technology ModelSim SE vlog 6.5b Compiler 2009.05 May 21 2009
+-- Compiling package sword_machine_sv_unit
+-- Importing package room_state
+-- Compiling module sword_machine
+
+Top level modules:
+	sword_machine
+
+} {} {}} C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/testbench.sv {1 {vlog -work work -vopt -sv -nocovercells C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/testbench.sv
+Model Technology ModelSim SE vlog 6.5b Compiler 2009.05 May 21 2009
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/room_machine.sv {1 {vlog -work work -vopt -sv -nocovercells C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/room_machine.sv
+Model Technology ModelSim SE vlog 6.5b Compiler 2009.05 May 21 2009
+-- Compiling package room_machine_sv_unit
+-- Importing package room_state
+-- Compiling module room_machine
+
+Top level modules:
+	room_machine
+
+} {} {}} C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/room_state.sv {1 {vlog -work work -vopt -sv -nocovercells C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/room_state.sv
+Model Technology ModelSim SE vlog 6.5b Compiler 2009.05 May 21 2009
+-- Compiling package room_state
+
+Top level modules:
+	--none--
+
+} {} {}}

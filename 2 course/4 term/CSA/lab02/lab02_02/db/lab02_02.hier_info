@@ -1,0 +1,82 @@
+|lab02_02
+clk => clk.IN2
+reset => reset.IN2
+north => north.IN1
+south => south.IN1
+west => west.IN1
+east => east.IN1
+win <= Equal0.DB_MAX_OUTPUT_PORT_TYPE
+die <= Equal1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|lab02_02|room_machine:room_state_machine_var
+clk => current_state~1.DATAIN
+reset => current_state~3.DATAIN
+north => next_state.OUTPUTSELECT
+north => next_state.OUTPUTSELECT
+north => next_state.OUTPUTSELECT
+north => next_state.OUTPUTSELECT
+north => next_state.OUTPUTSELECT
+north => next_state.OUTPUTSELECT
+north => next_state.OUTPUTSELECT
+north => next_state.OUTPUTSELECT
+north => next_state.OUTPUTSELECT
+north => next_state.OUTPUTSELECT
+north => Selector2.IN5
+south => next_state.OUTPUTSELECT
+south => next_state.OUTPUTSELECT
+south => next_state.OUTPUTSELECT
+south => next_state.OUTPUTSELECT
+south => next_state.OUTPUTSELECT
+south => next_state.OUTPUTSELECT
+south => next_state.OUTPUTSELECT
+south => next_state.OUTPUTSELECT
+south => next_state.DATAA
+south => next_state.DATAA
+west => next_state.OUTPUTSELECT
+west => next_state.OUTPUTSELECT
+west => next_state.OUTPUTSELECT
+west => next_state.OUTPUTSELECT
+west => next_state.OUTPUTSELECT
+west => next_state.OUTPUTSELECT
+west => next_state.OUTPUTSELECT
+west => next_state.OUTPUTSELECT
+west => next_state.OUTPUTSELECT
+west => next_state.OUTPUTSELECT
+west => Selector0.IN4
+west => next_state.DATAA
+west => next_state.DATAA
+east => next_state.OUTPUTSELECT
+east => next_state.OUTPUTSELECT
+east => next_state.OUTPUTSELECT
+east => next_state.OUTPUTSELECT
+east => next_state.OUTPUTSELECT
+east => next_state.OUTPUTSELECT
+east => next_state.OUTPUTSELECT
+east => next_state.OUTPUTSELECT
+east => always1.IN0
+east => always1.IN0
+east => Selector1.IN4
+east => Selector2.IN6
+east => next_state.DATAA
+east => Selector0.IN1
+east => Selector3.IN1
+east => next_state.DATAA
+sword_founded => always1.IN1
+sword_founded => always1.IN1
+room[0] <= WideOr9.DB_MAX_OUTPUT_PORT_TYPE
+room[1] <= WideOr8.DB_MAX_OUTPUT_PORT_TYPE
+room[2] <= WideOr7.DB_MAX_OUTPUT_PORT_TYPE
+room[3] <= <GND>
+
+
+|lab02_02|sword_machine:sword_state_machine_var
+clk => current_state~1.DATAIN
+reset => current_state~3.DATAIN
+room[0] => Equal0.IN1
+room[1] => Equal0.IN0
+room[2] => Equal0.IN3
+room[3] => Equal0.IN2
+founded_sword <= founded_sword.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>RegWindow</class>
+ <widget class="QMainWindow" name="RegWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>RegKiller</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="Resources/icons.qrc">
+    <normaloff>:/icons/main_icons/Icons/monitor.png</normaloff>:/icons/main_icons/Icons/monitor.png</iconset>
+  </property>
+  <widget class="QWidget" name="fullGroup">
+   <layout class="QVBoxLayout" name="verticalLayout_3">
+    <item>
+     <widget class="QTableWidget" name="outTable"/>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="controlGroup">
+      <item>
+       <layout class="QHBoxLayout" name="horizontalLayout">
+        <item>
+         <widget class="QLineEdit" name="addrEdit">
+          <property name="placeholderText">
+           <string>Адрес значения...</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLineEdit" name="nameEdit">
+          <property name="placeholderText">
+           <string>Имя значения...</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="buttonsGroup">
+        <item>
+         <widget class="QPushButton" name="searchButton">
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset resource="Resources/icons.qrc">
+            <normaloff>:/icons/functIcons/Icons/SystemIcons/search.svg</normaloff>:/icons/functIcons/Icons/SystemIcons/search.svg</iconset>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="exportButton">
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset resource="Resources/icons.qrc">
+            <normaloff>:/icons/functIcons/Icons/SystemIcons/upload.svg</normaloff>:/icons/functIcons/Icons/SystemIcons/upload.svg</iconset>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="settingsButton">
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset resource="Resources/icons.qrc">
+            <normaloff>:/icons/functIcons/Icons/SystemIcons/gear-fill.svg</normaloff>:/icons/functIcons/Icons/SystemIcons/gear-fill.svg</iconset>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources>
+  <include location="Resources/icons.qrc"/>
+ </resources>
+ <connections/>
+</ui>

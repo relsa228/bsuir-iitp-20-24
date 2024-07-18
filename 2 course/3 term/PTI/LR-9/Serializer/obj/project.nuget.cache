@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a8jzV7UcGyrAPbfuXzFVoNW/4BrpTb8wCaBwO1DCrfx2wF7fn2NRhgby5cG/7ax9nw7fEp/4txO8qr4E1gVzXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ralia\\Desktop\\labs git\\ISP\\3 sem\\LR-9\\Serializer\\Serializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ralia\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

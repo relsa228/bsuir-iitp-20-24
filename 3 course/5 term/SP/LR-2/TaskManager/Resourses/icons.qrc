@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/files.svg</file>
+        <file>icons/folder.svg</file>
+        <file>icons/terminal-fill.svg</file>
+        <file>icons/tools.svg</file>
+        <file>icons/trash3.svg</file>
+        <file>icons/bootstrap-reboot.svg</file>
+        <file>icons/file-text.svg</file>
+        <file>icons/pause.svg</file>
+        <file>icons/play-fill.svg</file>
+        <file>icons/printer.svg</file>
+        <file>icons/x-lg.svg</file>
+    </qresource>
+</RCC>

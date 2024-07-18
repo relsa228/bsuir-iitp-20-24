@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cryptocurrency_list">
+        <item>Ethereum (ETH)</item>
+        <item>Litecoin (LTC)</item>
+        <item>Bitcoin (BTC)</item>
+    </string-array>
+</resources>

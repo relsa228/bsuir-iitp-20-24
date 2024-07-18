@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/new/Icons">
+        <file>Icons/brush.svg</file>
+        <file>Icons/eraser-fill.svg</file>
+        <file>Icons/rotateRight.svg</file>
+        <file>Icons/rotateLeft.svg</file>
+        <file>Icons/chevron-up.svg</file>
+        <file>Icons/circle.svg</file>
+        <file>Icons/collection.svg</file>
+        <file>Icons/dash-lg.svg</file>
+        <file>Icons/download.svg</file>
+        <file>Icons/hexagon.svg</file>
+        <file>Icons/slash-lg.svg</file>
+        <file>Icons/square.svg</file>
+        <file>Icons/paint-bucket.svg</file>
+        <file>Icons/arrow-left.svg</file>
+        <file>Icons/arrow-right.svg</file>
+        <file>Icons/border-width.svg</file>
+        <file>Icons/palette.svg</file>
+        <file>Icons/upload.svg</file>
+        <file>Icons/arrows-move.svg</file>
+        <file>Icons/plus-lg.svg</file>
+        <file>Icons/x-lg.svg</file>
+        <file>Icons/clipboard.svg</file>
+        <file>Icons/box.svg</file>
+        <file>Icons/box-seam.svg</file>
+        <file>Icons/filetype-json.svg</file>
+    </qresource>
+</RCC>

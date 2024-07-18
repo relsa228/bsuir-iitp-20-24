@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="distance_list">
+        <item>Метры (m)</item>
+        <item>Футы (ft)</item>
+        <item>Дюймы (in)</item>
+        <item>Ярды (yd)</item>
+        <item>Мили (mi)</item>
+    </string-array>
+</resources>

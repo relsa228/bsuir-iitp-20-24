@@ -1,0 +1,16 @@
+
+State Machine - |lab02_02|sword_machine:sword_state_machine_var|current_state
+Name current_state.state_founded 
+current_state.state_initial 0 
+current_state.state_founded 1 
+
+State Machine - |lab02_02|room_machine:room_state_machine_var|current_state
+Name current_state.r_7 current_state.r_6 current_state.r_5 current_state.r_4 current_state.r_3 current_state.r_2 current_state.r_1 current_state.r_0 
+current_state.r_0 0 0 0 0 0 0 0 0 
+current_state.r_1 0 0 0 0 0 0 1 1 
+current_state.r_2 0 0 0 0 0 1 0 1 
+current_state.r_3 0 0 0 0 1 0 0 1 
+current_state.r_4 0 0 0 1 0 0 0 1 
+current_state.r_5 0 0 1 0 0 0 0 1 
+current_state.r_6 0 1 0 0 0 0 0 1 
+current_state.r_7 1 0 0 0 0 0 0 1 

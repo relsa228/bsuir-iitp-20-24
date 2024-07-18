@@ -1,0 +1,14 @@
+
+State Machine - |lab04_03|controller:c|main_state_machine:msm|state
+Name state.BEQ state.JAL state.EXECUTE_I state.ALU_WB state.EXECUTE_R state.MEM_WRITE state.MEM_WB state.MEM_READ state.MEM_ADR state.DECODE state.FETCH 
+state.FETCH 0 0 0 0 0 0 0 0 0 0 0 
+state.DECODE 0 0 0 0 0 0 0 0 0 1 1 
+state.MEM_ADR 0 0 0 0 0 0 0 0 1 0 1 
+state.MEM_READ 0 0 0 0 0 0 0 1 0 0 1 
+state.MEM_WB 0 0 0 0 0 0 1 0 0 0 1 
+state.MEM_WRITE 0 0 0 0 0 1 0 0 0 0 1 
+state.EXECUTE_R 0 0 0 0 1 0 0 0 0 0 1 
+state.ALU_WB 0 0 0 1 0 0 0 0 0 0 1 
+state.EXECUTE_I 0 0 1 0 0 0 0 0 0 0 1 
+state.JAL 0 1 0 0 0 0 0 0 0 0 1 
+state.BEQ 1 0 0 0 0 0 0 0 0 0 1 

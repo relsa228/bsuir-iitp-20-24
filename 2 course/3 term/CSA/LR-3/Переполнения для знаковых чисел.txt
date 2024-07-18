@@ -1,0 +1,18 @@
+Overflow in a^2 - 1000, 1, 1, 1 - сверху
+
+Overflow in a^3 - 100, 1, 1, 1 - сверху
+Overflow in a^3 - -100, 1, 1, 1 - снизу
+
+Overflow in a^4 - 17, 1, 1, 1 - сверху
+
+Overflow in c*b - 10, 10, 32000, 1 - сверху
+Overflow in c*b - 10, 10, -32000, 1 - снизу
+
+Overflow in pow(a,2)-b - 10, -32000, 1, 2 - сверху
+
+Overflow in c^2 - 1, 10, 1000, 1 - сверху 
+
+Owerflow in c^3 - 1, 10, 100, 1 - сверху
+Owerflow in c^3 - 1, 10, -100, 1 - снизу
+
+Owerflow in c^3 + b - 1, 32000, 17, 1 - сверху

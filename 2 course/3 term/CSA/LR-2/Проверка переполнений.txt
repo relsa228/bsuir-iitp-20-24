@@ -1,0 +1,7 @@
+Overflow in a^2 - 1000, 1, 1, 1
+Overflow in a^3 - 100, 1, 1, 1
+Overflow in a^4 - 17, 1, 1, 1
+Overflow in c*b - 10, 10, 32000, 1
+Overflow in c^2 - 1, 10, 1000, 1 
+Owerflow in c^3 - 1, 10, 100, 1
+Owerflow in c^3 + b - 1, 32000, 17, 1

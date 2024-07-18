@@ -1,0 +1,5 @@
+1. 	jki: 15.966 Gflop/s 
+	kji: 15.036 Gflop/s
+
+2. 	ikj: 0.688 Gflop/s
+	kij: 0.662 Gflop/s

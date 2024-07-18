@@ -1,0 +1,181 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Programs\Modelsim\Modelsim\examples
+T_opt
+Z1 V8b1X9mJke9AI:QbJUa`SE3
+Z2 04 9 4 work testbench fast 0
+Z3 =1-b05cda8d5d30-629dd7ff-99-1ce0
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OE;O;6.5b;42
+T_opt1
+V]?9@QCmf@khFjkGo<f2kI1
+R2
+Z7 =1-b05cda8d5d30-629dd933-386-15c0
+R4
+Z8 n@_opt1
+R6
+vlab02_02
+Z9 Mx1 6 sv_std 3 std
+Z10 DXx6 sv_std 3 std 0 22 WnQ=;W1X^o9K1PIQTgInR3
+Z11 Mx2 4 work 10 room_state
+Z12 DXx4 work 10 room_state 0 22 kZ`<8BS;>o6AW<iAi]1i42
+Z13 Mx3 4 work 16 lab02_02_sv_unit
+Z14 DXx4 work 16 lab02_02_sv_unit 0 22 c?XQIzcJ53BOBQh1:3b2:3
+Z15 V5jEn1SIDHi3BecH77n7<C2
+r1
+31
+Z16 IY=L=CDEj@A=hO9oh09d;R1
+S1
+Z17 dC:\Users\ralia\Desktop\git\csa-2022\lab02\Modelsim\02
+Z18 w1654466783
+Z19 8C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/lab02_02.sv
+Z20 FC:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/lab02_02.sv
+L0 3
+Z21 OE;L;6.5b;42
+Z22 !s102 -nocovercells
+Z23 o-work work -sv -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+Z24 !s100 Z`?@28lY89Z1SeG:8EmSo0
+!s85 0
+Xlab02_02_sv_unit
+R9
+R10
+R11
+R12
+Z25 Vc?XQIzcJ53BOBQh1:3b2:3
+r1
+31
+Z26 Ic?XQIzcJ53BOBQh1:3b2:3
+S1
+R17
+R18
+R19
+R20
+L0 1
+R21
+R22
+R23
+Z27 !s100 OcQBf6UlZo``2LH]:?@7[1
+!s85 0
+vroom_machine
+R9
+R10
+R11
+R12
+Z28 Mx3 4 work 20 room_machine_sv_unit
+Z29 DXx4 work 20 room_machine_sv_unit 0 22 DEK=o9WG56NUkcc83=BEm1
+Z30 VZ0=;nj8H;2?S[TgaMh3313
+r1
+31
+Z31 I7lz^zEoVfV5^jcBcl?XBI1
+S1
+R17
+Z32 w1654467860
+Z33 8C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/room_machine.sv
+Z34 FC:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/room_machine.sv
+L0 3
+R21
+R22
+R23
+Z35 !s100 dzGJYizPRT8FM`ZlVT9FB1
+!s85 0
+Xroom_machine_sv_unit
+R9
+R10
+R11
+R12
+Z36 VDEK=o9WG56NUkcc83=BEm1
+r1
+31
+Z37 IDEK=o9WG56NUkcc83=BEm1
+S1
+R17
+R32
+R33
+R34
+L0 1
+R21
+R22
+R23
+Z38 !s100 V1;NJ0@<GaWGn3k=0G=WB0
+!s85 0
+Xroom_state
+R9
+R10
+Z39 IkZ`<8BS;>o6AW<iAi]1i42
+Z40 VkZ`<8BS;>o6AW<iAi]1i42
+S1
+R17
+Z41 w1654469634
+Z42 8C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/room_state.sv
+Z43 FC:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/room_state.sv
+L0 1
+R21
+r1
+31
+R23
+R22
+Z44 !s100 Xz_X<B4^3gWZXCWHeimV_2
+!s85 0
+vsword_machine
+R9
+R10
+R11
+R12
+Z45 Mx3 4 work 21 sword_machine_sv_unit
+Z46 DXx4 work 21 sword_machine_sv_unit 0 22 _5A;_DIFd2GX2hR]?=Iam0
+Z47 V@[g1[Di6Y:69UoaOeKKB13
+r1
+31
+Z48 IzX_LY6F`aO]AcP[QLY3KY1
+S1
+R17
+Z49 w1654467862
+Z50 8C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/sword_machine.sv
+Z51 FC:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/sword_machine.sv
+L0 3
+R21
+R22
+R23
+Z52 !s100 N7QA:AS=B>gcCNc:n@iQe3
+!s85 0
+Xsword_machine_sv_unit
+R9
+R10
+R11
+R12
+Z53 V_5A;_DIFd2GX2hR]?=Iam0
+r1
+31
+Z54 I_5A;_DIFd2GX2hR]?=Iam0
+S1
+R17
+R49
+R50
+R51
+L0 1
+R21
+R22
+R23
+Z55 !s100 Bd0ECZN8k8fE9P6_j68Y_2
+!s85 0
+vtestbench
+R9
+R10
+Z56 ID@0JFIOZn`^;n[JT_4@Ld3
+Z57 VhGfW:390DM[oDMzegDH9`2
+S1
+R17
+Z58 w1654511362
+Z59 8C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/testbench.sv
+Z60 FC:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_02/testbench.sv
+L0 1
+R21
+r1
+31
+R22
+R23
+Z61 !s100 nN949ABIC[2`<bl2Ji^Ia1
+!s85 0

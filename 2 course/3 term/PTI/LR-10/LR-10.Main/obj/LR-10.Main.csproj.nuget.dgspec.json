@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ralia\\Desktop\\labs git\\ISP\\3 sem\\LR-10\\LR-10.Main\\LR-10.Main.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ralia\\Desktop\\labs git\\ISP\\3 sem\\LR-10\\LR-10.Main\\LR-10.Main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ralia\\Desktop\\labs git\\ISP\\3 sem\\LR-10\\LR-10.Main\\LR-10.Main.csproj",
+        "projectName": "LR-10.Main",
+        "projectPath": "C:\\Users\\ralia\\Desktop\\labs git\\ISP\\3 sem\\LR-10\\LR-10.Main\\LR-10.Main.csproj",
+        "packagesPath": "C:\\Users\\ralia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ralia\\Desktop\\labs git\\ISP\\3 sem\\LR-10\\LR-10.Main\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ralia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ralia\\Desktop\\labs git\\ISP\\3 sem\\LR-10\\LR-10FileServiceLib\\LR-10FileServiceLib.csproj": {
+                "projectPath": "C:\\Users\\ralia\\Desktop\\labs git\\ISP\\3 sem\\LR-10\\LR-10FileServiceLib\\LR-10FileServiceLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ralia\\Desktop\\labs git\\ISP\\3 sem\\LR-10\\LR-10FileServiceLib\\LR-10FileServiceLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ralia\\Desktop\\labs git\\ISP\\3 sem\\LR-10\\LR-10FileServiceLib\\LR-10FileServiceLib.csproj",
+        "projectName": "LR-10FileServiceLib",
+        "projectPath": "C:\\Users\\ralia\\Desktop\\labs git\\ISP\\3 sem\\LR-10\\LR-10FileServiceLib\\LR-10FileServiceLib.csproj",
+        "packagesPath": "C:\\Users\\ralia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ralia\\Desktop\\labs git\\ISP\\3 sem\\LR-10\\LR-10FileServiceLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ralia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

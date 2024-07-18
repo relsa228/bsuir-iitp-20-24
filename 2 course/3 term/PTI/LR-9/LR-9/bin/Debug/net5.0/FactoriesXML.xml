@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<ArrayOfFactory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Factory>
+    <DetailWarehouse>
+      <InWarehouse>0</InWarehouse>
+      <MaxCapacity>100</MaxCapacity>
+      <HeadOfWarehouse>Валерий Альбертович Шпак</HeadOfWarehouse>
+    </DetailWarehouse>
+    <ProductWarehouse>
+      <InWarehouse>0</InWarehouse>
+      <MaxCapacity>100</MaxCapacity>
+      <HeadOfWarehouse>Богомолов Александр Александрович</HeadOfWarehouse>
+    </ProductWarehouse>
+    <Workers>728</Workers>
+    <Specialization>Гвозди</Specialization>
+    <Budget>1000</Budget>
+  </Factory>
+  <Factory>
+    <DetailWarehouse>
+      <InWarehouse>0</InWarehouse>
+      <MaxCapacity>100</MaxCapacity>
+      <HeadOfWarehouse>Валерий Альбертович Шпак</HeadOfWarehouse>
+    </DetailWarehouse>
+    <ProductWarehouse>
+      <InWarehouse>0</InWarehouse>
+      <MaxCapacity>100</MaxCapacity>
+      <HeadOfWarehouse>Богомолов Александр Александрович</HeadOfWarehouse>
+    </ProductWarehouse>
+    <Workers>1307</Workers>
+    <Specialization>Коленвалы</Specialization>
+    <Budget>30</Budget>
+  </Factory>
+  <Factory>
+    <DetailWarehouse>
+      <InWarehouse>0</InWarehouse>
+      <MaxCapacity>100</MaxCapacity>
+      <HeadOfWarehouse>Валерий Альбертович Шпак</HeadOfWarehouse>
+    </DetailWarehouse>
+    <ProductWarehouse>
+      <InWarehouse>0</InWarehouse>
+      <MaxCapacity>100</MaxCapacity>
+      <HeadOfWarehouse>Богомолов Александр Александрович</HeadOfWarehouse>
+    </ProductWarehouse>
+    <Workers>1508</Workers>
+    <Specialization>Бюсты</Specialization>
+    <Budget>6000000</Budget>
+  </Factory>
+  <Factory>
+    <DetailWarehouse>
+      <InWarehouse>0</InWarehouse>
+      <MaxCapacity>100</MaxCapacity>
+      <HeadOfWarehouse>Валерий Альбертович Шпак</HeadOfWarehouse>
+    </DetailWarehouse>
+    <ProductWarehouse>
+      <InWarehouse>0</InWarehouse>
+      <MaxCapacity>100</MaxCapacity>
+      <HeadOfWarehouse>Богомолов Александр Александрович</HeadOfWarehouse>
+    </ProductWarehouse>
+    <Workers>168</Workers>
+    <Specialization>Обувь</Specialization>
+    <Budget>2000</Budget>
+  </Factory>
+  <Factory>
+    <DetailWarehouse>
+      <InWarehouse>0</InWarehouse>
+      <MaxCapacity>100</MaxCapacity>
+      <HeadOfWarehouse>Валерий Альбертович Шпак</HeadOfWarehouse>
+    </DetailWarehouse>
+    <ProductWarehouse>
+      <InWarehouse>0</InWarehouse>
+      <MaxCapacity>100</MaxCapacity>
+      <HeadOfWarehouse>Богомолов Александр Александрович</HeadOfWarehouse>
+    </ProductWarehouse>
+    <Workers>6606</Workers>
+    <Specialization>Лопапты</Specialization>
+    <Budget>666</Budget>
+  </Factory>
+  <Factory>
+    <DetailWarehouse>
+      <InWarehouse>0</InWarehouse>
+      <MaxCapacity>100</MaxCapacity>
+      <HeadOfWarehouse>Валерий Альбертович Шпак</HeadOfWarehouse>
+    </DetailWarehouse>
+    <ProductWarehouse>
+      <InWarehouse>0</InWarehouse>
+      <MaxCapacity>100</MaxCapacity>
+      <HeadOfWarehouse>Богомолов Александр Александрович</HeadOfWarehouse>
+    </ProductWarehouse>
+    <Workers>1400</Workers>
+    <Specialization>Кирпичи</Specialization>
+    <Budget>-28</Budget>
+  </Factory>
+</ArrayOfFactory>

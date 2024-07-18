@@ -1,0 +1,370 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ralia\Desktop\git\csa-2022\lab04\Modelsim\lab04_02
+T_opt
+Z1 V5PI;`]UZE5A[53`gf=SG;3
+Z2 04 9 4 work testbench fast 0
+Z3 =1-b05cda8d5d30-62a0a091-10d-25b4
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OE;O;6.5b;42
+vadder
+Z7 Mx1 6 sv_std 3 std
+Z8 DXx6 sv_std 3 std 0 22 WnQ=;W1X^o9K1PIQTgInR3
+Z9 Mx2 4 work 16 lab04_03_sv_unit
+Z10 DXx4 work 16 lab04_03_sv_unit 0 22 IJnSPbk2?ECIb`DlI93j<2
+Z11 VR4:XbIkd<X908neF9?e9K1
+r1
+31
+Z12 I:NOS9ZSE<d<2eGCEN]TZo2
+S1
+Z13 dC:\Users\ralia\Desktop\git\csa-2022\lab04\Modelsim\lab04_03
+Z14 w1654692289
+Z15 8C:/Users/ralia/Desktop/git/csa-2022/lab04/src/lab04_03/lab04_03.sv
+Z16 FC:/Users/ralia/Desktop/git/csa-2022/lab04/src/lab04_03/lab04_03.sv
+Z17 L0 350
+Z18 OE;L;6.5b;42
+Z19 !s102 -nocovercells
+Z20 o-work work -sv -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+!s85 0
+Z21 !s100 A3>g;<IzcZ3Wmfoc5Xn_J1
+valu
+Z22 Mx1 36 C:\Programs\Modelsim\Modelsim\sv_std 3 std
+Z23 DXx36 C:\Programs\Modelsim\Modelsim\sv_std 3 std 0 22 WnQ=;W1X^o9K1PIQTgInR3
+Z24 Mx2 64 C:\Users\ralia\Desktop\git\csa-2022\lab04\Modelsim\lab04_03\work 16 lab04_03_sv_unit
+Z25 DXx64 C:\Users\ralia\Desktop\git\csa-2022\lab04\Modelsim\lab04_03\work 16 lab04_03_sv_unit 0 22 IJnSPbk2?ECIb`DlI93j<2
+Z26 V91KC`lXUR5i=e4AKCZ:Y40
+r1
+31
+Z27 IgmCOnm05PC5n8figPHKKT3
+S1
+R13
+R14
+R15
+R16
+Z28 L0 428
+R18
+R19
+R20
+!s85 0
+Z29 !s100 kA<_WZFF=6jAiNl:La@4F1
+valudec
+R22
+R23
+R24
+R25
+Z30 VAVe>_[cd@3dF@>]8TfJU00
+r1
+31
+Z31 I^oBLnK6;DT`WOzIVf0=`82
+S1
+R13
+R14
+R15
+R16
+Z32 L0 254
+R18
+R19
+R20
+!s85 0
+Z33 !s100 :P3D1z5zzH34<@[39UWj;0
+vcontroller
+R22
+R23
+R24
+R25
+Z34 VjPH1aZ3Gf:WCXb<oYl`<=1
+r1
+31
+Z35 I8Im1[iJF5;4jI20e>KR_[0
+S1
+R13
+R14
+R15
+R16
+Z36 L0 130
+R18
+R19
+R20
+!s85 0
+Z37 !s100 3Ol9=l<aHkolIMfXMhnRK1
+vdatapath
+R22
+R23
+R24
+R25
+Z38 V9Q970PJ8;U[OE91T^<YRN2
+r1
+31
+Z39 IR3agTHV[6abH5UOP>I]?W0
+S1
+R13
+R14
+R15
+R16
+Z40 L0 283
+R18
+R19
+R20
+!s85 0
+Z41 !s100 ViD2hUQDnddRT==5n4?P41
+vextend
+R22
+R23
+R24
+R25
+Z42 Vm1jNmdJaFKeIL51?k@0J40
+r1
+31
+Z43 ID?E_n9EnQiiOgUb1LCgj?3
+S1
+R13
+R14
+R15
+R16
+Z44 L0 359
+R18
+R19
+R20
+!s85 0
+Z45 !s100 76QC8_MmkDgeh]El0=;GC0
+vflopenr
+R22
+R23
+R24
+R25
+Z46 VzjN9Ei4EhXT6V47k8BYK41
+r1
+31
+Z47 Ih^IX?9i3nWd`?d?>iO1IQ0
+S1
+R13
+R14
+R15
+R16
+Z48 L0 393
+R18
+R19
+R20
+!s85 0
+Z49 !s100 34Y;^:V_CHYEQe;[SY=[T0
+vflopr
+R22
+R23
+R24
+R25
+Z50 V2mh8OK7cA7Uj4fYNMe>P:0
+r1
+31
+Z51 Izb^c63J0^N]G8EC:2Z:Se3
+S1
+R13
+R14
+R15
+R16
+Z52 L0 380
+R18
+R19
+R20
+!s85 0
+Z53 !s100 WdM2<]GXJd=cY]1k7KEjF0
+vinstrdec
+R22
+R23
+R24
+R25
+Z54 V_TI@fX^1bU^ZXHC`mVRe@2
+r1
+31
+Z55 IgNSSidUb8HAk38ZzaaQZH3
+S1
+R13
+R14
+R15
+R16
+Z56 L0 236
+R18
+R19
+R20
+!s85 0
+Z57 !s100 IX;d<`U2`Ogki;0`jiIf:0
+vlab04_03
+R22
+R23
+R24
+R25
+Z58 V]TE0b3`FTobM5R?RH4zFB1
+r1
+31
+Z59 I55aRZXgTHM8Q6GK;I<Y2@0
+S1
+R13
+R14
+R15
+R16
+Z60 L0 104
+R18
+R19
+R20
+!s85 0
+Z61 !s100 bZ^K5XdcTHCKSdBmTOZV32
+Xlab04_03_sv_unit
+R22
+R23
+Z62 VIJnSPbk2?ECIb`DlI93j<2
+r1
+31
+Z63 IIJnSPbk2?ECIb`DlI93j<2
+S1
+R13
+R14
+R15
+R16
+L0 1
+R18
+R19
+R20
+!s85 0
+Z64 !s100 O[lGkBT9U?2=3Z4UCzBJh0
+vmain_state_machine
+R22
+R23
+R24
+R25
+Z65 V36GiMZSeW;ba76Q;XaV@g1
+r1
+31
+Z66 IHX_F]5M0n5LJocV_:TG@g2
+S1
+R13
+R14
+R15
+R16
+Z67 L0 160
+R18
+R19
+R20
+!s85 0
+Z68 !s100 Mj]?zzZg;d;n5<h5gQY3N3
+vmem
+R22
+R23
+R24
+R25
+Z69 VKNVGMF86I43QTg]=^@cjJ2
+r1
+31
+Z70 IohG<i817dzH5_LGk8ca@50
+S1
+R13
+R14
+R15
+R16
+L0 82
+R18
+R19
+R20
+!s85 0
+Z71 !s100 4H?i8>d42oe1XjBeRS1Ui1
+vmux2
+R22
+R23
+R24
+R25
+Z72 VaBhZ?_P`0eT=:V>5;NYCG1
+r1
+31
+Z73 IOH0A3;87Pi5Hj=?iS;VJU2
+S1
+R13
+R14
+R15
+R16
+Z74 L0 406
+R18
+R19
+R20
+!s85 0
+Z75 !s100 gU9ck5P[9Jh3VX4MC>l@T3
+vmux3
+R22
+R23
+R24
+R25
+Z76 V[dLY@NDU0b@d30Oho7icm0
+r1
+31
+Z77 IbCi@O2>o[`H640ONUJf4Y0
+S1
+R13
+R14
+R15
+R16
+Z78 L0 417
+R18
+R19
+R20
+!s85 0
+Z79 !s100 Ca:mX[]j<;V[iafKH]BSJ3
+vregfile
+R22
+R23
+R24
+R25
+Z80 Vam:jJ?LzaY70NeQN:dgeE1
+r1
+31
+Z81 ISVIL5UTfKBXm:kj1O5@Z22
+S1
+R13
+R14
+R15
+R16
+Z82 L0 327
+R18
+R19
+R20
+!s85 0
+Z83 !s100 d3D^X_N]V5;lUff;O^GZ73
+vtestbench
+R22
+R23
+R24
+R25
+Z84 VhGfW:390DM[oDMzegDH9`2
+r1
+31
+Z85 IF^46?7k9cjc2z<a7Ji1g;3
+S1
+R13
+R14
+R15
+R16
+L0 3
+R18
+R19
+R20
+!s85 0
+Z86 !s100 ogz>I^TlF389H21<EW7Ln1
+vtop
+R22
+R23
+R24
+R25
+Z87 V600R3;49fJLWoLPdBQnjM3
+r1
+31
+Z88 IHIKN77AEf6l>g^mJgcVlY0
+S1
+R13
+R14
+R15
+R16
+L0 61
+R18
+R19
+R20
+!s85 0
+Z89 !s100 [S5@bE?P]8XlbH@dFB@f72

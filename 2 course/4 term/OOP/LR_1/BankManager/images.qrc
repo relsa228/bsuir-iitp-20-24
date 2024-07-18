@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/LoginImage">
+        <file>resource/images/Coat_of_arms_of_Russia_Empire_without_shield.png</file>
+        <file>resource/images/Sena-Saber-5.png</file>
+        <file>resource/images/Sena-Saber-6.png</file>
+        <file>resource/images/Sena-Saber-7.png</file>
+        <file>resource/images/mLkk-6k5vpA.png</file>
+        <file>resource/images/pngwing.com.png</file>
+        <file>resource/images/Matou_sakura.png</file>
+    </qresource>
+</RCC>

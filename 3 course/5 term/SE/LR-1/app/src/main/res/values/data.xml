@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data_list">
+        <item>Биты (bit)</item>
+        <item>Байты (B)</item>
+        <item>Килобайты (KB)</item>
+        <item>Мегабайты (MB)</item>
+    </string-array>
+</resources>

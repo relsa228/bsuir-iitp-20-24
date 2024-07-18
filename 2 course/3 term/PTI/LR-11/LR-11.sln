@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LR-11", "LR-11\LR-11.csproj", "{19910296-F814-443F-9E9C-59832956C34E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerLib", "WorkerLib\WorkerLib.csproj", "{9644CDB1-0944-41C0-B8EA-894035E1A40F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinIntegrate", "SinIntegrate\SinIntegrate.csproj", "{7B946C97-CA00-49AC-9969-31841CC19FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19910296-F814-443F-9E9C-59832956C34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19910296-F814-443F-9E9C-59832956C34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19910296-F814-443F-9E9C-59832956C34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19910296-F814-443F-9E9C-59832956C34E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9644CDB1-0944-41C0-B8EA-894035E1A40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9644CDB1-0944-41C0-B8EA-894035E1A40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9644CDB1-0944-41C0-B8EA-894035E1A40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9644CDB1-0944-41C0-B8EA-894035E1A40F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B946C97-CA00-49AC-9969-31841CC19FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B946C97-CA00-49AC-9969-31841CC19FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B946C97-CA00-49AC-9969-31841CC19FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B946C97-CA00-49AC-9969-31841CC19FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

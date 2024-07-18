@@ -1,0 +1,42 @@
+bool vowels (char ch)
+{
+    std::string vowels = "AaEeYyUuIiOo";
+    for (char vowel : vowels)
+        if (vowel == ch)
+            return true;
+
+    return false;
+}
+
+bool consonants (char ch)
+{
+    std::string consonants = "QqWwRrTtPpSsDdFfGgHhJjKkLlZzXxCcVvBbNnMm";
+    for (char consonant : consonants)
+        if (consonant == ch)
+            return true;
+
+    return false;
+}
+
+std::string funct(std::string str)
+{
+    std::string res;
+    for (int i = 0; i < str.size(); i++)
+    {
+        if (i%2 == 1 && vowels(str[i])) {}
+        else if (i%2 == 0 && consonants(str[i]))
+        {
+            res.push_back(str[i]);
+            res.push_back(str[i]);
+        }
+        else if (str[i] == ' ')
+        {
+            res.push_back(str[i]);
+            str.erase(0, i+1);
+            i = -1;
+        }
+        else
+            res.push_back(str[i]);
+    }
+    return res;
+}

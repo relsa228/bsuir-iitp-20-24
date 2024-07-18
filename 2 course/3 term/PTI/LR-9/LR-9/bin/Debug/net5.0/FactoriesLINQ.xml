@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Factories>
+  <Factory Specialization="Гвозди" Workers="728" Budget="1000">
+    <DetailsInWarehouse>0</DetailsInWarehouse>
+    <ProductsInWarehouse>0</ProductsInWarehouse>
+  </Factory>
+  <Factory Specialization="Коленвалы" Workers="1307" Budget="30">
+    <DetailsInWarehouse>0</DetailsInWarehouse>
+    <ProductsInWarehouse>0</ProductsInWarehouse>
+  </Factory>
+  <Factory Specialization="Бюсты" Workers="1508" Budget="6000000">
+    <DetailsInWarehouse>0</DetailsInWarehouse>
+    <ProductsInWarehouse>0</ProductsInWarehouse>
+  </Factory>
+  <Factory Specialization="Обувь" Workers="168" Budget="2000">
+    <DetailsInWarehouse>0</DetailsInWarehouse>
+    <ProductsInWarehouse>0</ProductsInWarehouse>
+  </Factory>
+  <Factory Specialization="Лопапты" Workers="6606" Budget="666">
+    <DetailsInWarehouse>0</DetailsInWarehouse>
+    <ProductsInWarehouse>0</ProductsInWarehouse>
+  </Factory>
+  <Factory Specialization="Кирпичи" Workers="1400" Budget="-28">
+    <DetailsInWarehouse>0</DetailsInWarehouse>
+    <ProductsInWarehouse>0</ProductsInWarehouse>
+  </Factory>
+</Factories>

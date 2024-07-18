@@ -1,0 +1,1232 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sim-project version="13.30" multi-file="no" uid="simpcc8cbcb08a0e4b8cb75a1086d1df563d">
+  <meta>
+    <name>Издательский дом Зильбермана</name>
+    <authors>Артемий Штирнер</authors>
+    <description>Схема ненормализованной базы данных</description>
+  </meta>
+  <counters models="1">
+    <entity-names>
+      <counter>
+        <item-type type-id="class" type="Class" />
+        <value>9</value>
+      </counter>
+      <counter>
+        <item-type type-id="erd-entity" type="Entity" />
+        <value>17</value>
+      </counter>
+    </entity-names>
+    <entity-ids>
+      <counter>
+        <item-type type-id="group" type="Group" />
+        <value>3553</value>
+      </counter>
+      <counter>
+        <item-type type-id="class" type="Class" />
+        <value>10</value>
+      </counter>
+      <counter>
+        <item-type type-id="relationship" type="Association" />
+        <value>21</value>
+      </counter>
+      <counter>
+        <item-type type-id="property" type="Property" />
+        <value>91</value>
+      </counter>
+      <counter>
+        <item-type type-id="universal-connector" type="Universal Connector" />
+        <value>2</value>
+      </counter>
+      <counter>
+        <item-type type-id="erd-relationship" type="Relationship" />
+        <value>60</value>
+      </counter>
+      <counter>
+        <item-type type-id="erd-entity" type="Entity" />
+        <value>18</value>
+      </counter>
+    </entity-ids>
+    <diagrams>
+      <counter>
+        <type>SoftwareIdeasModeler.Core.Diagrams.UmlDiagrams.UmlClassDiagram</type>
+        <value>1</value>
+      </counter>
+      <counter>
+        <type>SoftwareIdeasModeler.Core.Diagrams.Other.EntityRelationshipDiagram</type>
+        <value>1</value>
+      </counter>
+    </diagrams>
+    <fields>
+      <counter>
+        <type>SoftwareIdeasModeler.Core.DiagramItems.Fields.OperationField</type>
+        <value>2</value>
+      </counter>
+      <counter>
+        <type>SoftwareIdeasModeler.Core.DiagramItems.Erd.ErdEntityAttribute</type>
+        <value>73</value>
+      </counter>
+    </fields>
+  </counters>
+  <alias-groups />
+  <management uid="md-30d1a41f12e74142a01a3a4e3b007e07" name="" task-id-sequence="0">
+    <working-schedule uid="ws-46fdd5185d8e4ee2975ce44a4ff4a4fc" hours="8" monday="8" tuesday="8" wednesday="8" thursday="8" friday="8" saturday="0" sunday="0" />
+    <persons>
+      <person id="">
+        <first-name>Артемий</first-name>
+        <last-name>Штирнер</last-name>
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+        <working-schedule uid="ws-1bf7e246cf64446daa5ffccbb78ae417" hours="8" monday="8" tuesday="8" wednesday="8" thursday="8" friday="8" saturday="0" sunday="0" />
+      </person>
+      <person id="">
+        <first-name>Артемий</first-name>
+        <last-name>Штирнер</last-name>
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+        <working-schedule uid="ws-7919359ac2844e4389b4506dadfafc91" hours="8" monday="8" tuesday="8" wednesday="8" thursday="8" friday="8" saturday="0" sunday="0" />
+      </person>
+      <person id="">
+        <first-name>Артемий</first-name>
+        <last-name>Штирнер</last-name>
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+        <working-schedule uid="ws-996fec8091f046b586d48911f2dad8f7" hours="8" monday="8" tuesday="8" wednesday="8" thursday="8" friday="8" saturday="0" sunday="0" />
+      </person>
+      <person id="">
+        <first-name>Артемий</first-name>
+        <last-name>Штирнер</last-name>
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+        <working-schedule uid="ws-16c1907405fd4b84ababc1c661a38375" hours="8" monday="8" tuesday="8" wednesday="8" thursday="8" friday="8" saturday="0" sunday="0" />
+      </person>
+      <person id="">
+        <first-name>Артемий</first-name>
+        <last-name>Штирнер</last-name>
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+        <working-schedule uid="ws-20d9cb5bae8f4d1c9169465ecc0536b6" hours="8" monday="8" tuesday="8" wednesday="8" thursday="8" friday="8" saturday="0" sunday="0" />
+      </person>
+      <person id="">
+        <first-name>Артемий</first-name>
+        <last-name>Штирнер</last-name>
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+        <working-schedule uid="ws-69bf4b49c7ff43f08c7753d0e3e21bd9" hours="8" monday="8" tuesday="8" wednesday="8" thursday="8" friday="8" saturday="0" sunday="0" />
+      </person>
+      <person id="">
+        <first-name>Артемий</first-name>
+        <last-name>Штирнер</last-name>
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+        <working-schedule uid="ws-5cd86fd5636e4609b9151e31aaf74338" hours="8" monday="8" tuesday="8" wednesday="8" thursday="8" friday="8" saturday="0" sunday="0" />
+      </person>
+      <person id="">
+        <first-name>Артемий</first-name>
+        <last-name>Штирнер</last-name>
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+        <working-schedule uid="ws-428b2257fd5e466794a04698d5c856a4" hours="8" monday="8" tuesday="8" wednesday="8" thursday="8" friday="8" saturday="0" sunday="0" />
+      </person>
+      <person id="">
+        <first-name>Артемий</first-name>
+        <last-name>Штирнер</last-name>
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+      </person>
+    </persons>
+    <teams />
+    <sprints />
+    <projects />
+    <modules />
+    <tasks />
+    <to-dos />
+  </management>
+  <glossary id="glsr-a8d887e7143849f39c4cbb60708ed12f" />
+  <types default="UML">
+    <type-sets>
+      <type-set file="UmlTypes.xml" />
+    </type-sets>
+    <custom-types>
+      <type id="uuid" tid="" name="uuid" description="" />
+      <type id="Сотрудник" tid="Class:48f9e44ad809496b828bf7e5c17aab1f" name="Сотрудник" description="" class-ref="48f9e44ad809496b828bf7e5c17aab1f" />
+      <type id="выполнения" tid="" name="выполнения" description="" />
+      <type id="открытия" tid="" name="открытия" description="" />
+      <type id="Ритейлер" tid="Class:61717ca9151d497bab3d43b4dc260f2b" name="Ритейлер" description="" class-ref="61717ca9151d497bab3d43b4dc260f2b" />
+      <type id="закрытия" tid="" name="закрытия" description="" />
+      <type id="центра" tid="" name="центра" description="" />
+      <type id="книг" tid="" name="книг" description="" />
+      <type id="UUID" tid="" name="UUID" description="" />
+      <type id="Заказ" tid="Class:e6e5c6ce295040d08fbaef7c95b43953" name="Заказ" description="" class-ref="e6e5c6ce295040d08fbaef7c95b43953" />
+      <type id="Автор" tid="Class:92b6bb67ff3746d0873a4622252d7960" name="Автор" description="" class-ref="92b6bb67ff3746d0873a4622252d7960" />
+      <type id="номер" tid="" name="номер" description="" />
+      <type id="Поставщик" tid="Class:66f3ad84fff44d608df99040c03abfdb" name="Поставщик" description="" class-ref="66f3ad84fff44d608df99040c03abfdb" />
+      <type id="Партия" tid="Class:00b19c222c7f4a569244f535e98c59b0" name="Партия" description="" class-ref="00b19c222c7f4a569244f535e98c59b0" />
+      <type id="Произведение" tid="Class:716f60858952498cb72f5012350af6c2" name="Произведение" description="" class-ref="716f60858952498cb72f5012350af6c2" />
+      <type id="Печатный центр" tid="Class:ae2f217d2fb349d193a2825b97c66235" name="Печатный центр" description="" class-ref="ae2f217d2fb349d193a2825b97c66235" />
+    </custom-types>
+  </types>
+  <items>
+    <item id="08b654ede61f4ed1bc9897cd07b820a8" cid="PROP023" type="property" name="Срок выполнения" style-class="" creator="" creation-date="09/24/2022 01:38:43" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="f2ddcce7bdd84a2cbda051de308e136e" cid="PROP040" type="property" name="Партий в производстве" style-class="" creator="" creation-date="09/24/2022 01:44:41" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="f1d5af818e704f3eb2fb2a150dff4b33" cid="PROP026" type="property" name="Фамилия" style-class="" creator="" creation-date="09/24/2022 01:39:21" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="e8e5117ae34e4878988cb5820818b544" cid="PROP064" type="property" name="" style-class="" creator="" creation-date="09/24/2022 01:51:22" visibility="private">
+      <feature />
+      <structural-feature type="Поставщик" type-id="Поставщик" />
+      <property />
+    </item>
+    <item id="be95c73e22084bcf81c148591ab124a5" cid="PROP086" type="property" name="" style-class="" creator="" creation-date="09/24/2022 01:57:53" visibility="private">
+      <feature />
+      <structural-feature type="Печатный центр" type-id="Печатный центр" />
+      <property />
+    </item>
+    <item id="8858eb0e7ede4d0cbbe00b32427a9399" cid="PROP079" type="property" name="Планируемые заказы" style-class="" creator="" creation-date="09/24/2022 01:56:36" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="9afc829a8c584237be9125123da6513f" cid="PROP034" type="property" name="Ответственный менеджер" style-class="" creator="" creation-date="09/24/2022 01:40:38" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="183b109e95da454789357b12541e097d" cid="PROP084" type="property" name="" style-class="" creator="" creation-date="09/24/2022 01:57:16" visibility="private">
+      <feature />
+      <structural-feature type="Произведение" type-id="Произведение" />
+      <property />
+    </item>
+    <item id="99995318b4cd44ff93538a6288414a3b" cid="PROP043" type="property" name="Специализация" style-class="" creator="" creation-date="09/24/2022 01:46:29" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="716f60858952498cb72f5012350af6c2" cid="C002" type="class" name="Произведение" style-class="" change-tracking-state="added" creator="" creation-date="09/24/2022 01:20:20" visibility="undefined">
+      <owned-items>
+        <owned-item ref="dbe66af3d9074271af7483b2a02f2b19" />
+        <owned-item ref="2cb4e1382eb24579b55456d08259e64a" />
+        <owned-item ref="68f1382da9e745f4b30bccb95b48e94a" />
+        <owned-item ref="9aef4b9603e445889680adcc91f92f91" />
+        <owned-item ref="1324ca538a3c4194b9c48322c50dd436" />
+      </owned-items>
+      <attributes>
+        <attribute id="aec38cf998c78472a9f341ffad52c7f1c468" cid="PROP008" name="Название" creation-date="09/24/2022 01:34:32" property-ref="dbe66af3d9074271af7483b2a02f2b19" />
+        <attribute id="a465f4d84420c472aa7a29c2dc5b9ce53569" cid="PROP009" name="Жанр" creation-date="09/24/2022 01:34:37" property-ref="2cb4e1382eb24579b55456d08259e64a" />
+        <attribute id="adacdb9bf0f6145568d863e47e23a153350" cid="PROP011" name="Автор(ы)" creation-date="09/24/2022 01:34:49" property-ref="1324ca538a3c4194b9c48322c50dd436" />
+        <attribute id="a2b51dd871797437ab8b1077fc439df77323" cid="PROP012" name="Номер издания" creation-date="09/24/2022 01:35:09" property-ref="68f1382da9e745f4b30bccb95b48e94a" />
+        <attribute id="acddccfd43a394a4089fba010ce0b20f3316" cid="PROP090" name="Тип" creation-date="09/24/2022 01:59:56" property-ref="9aef4b9603e445889680adcc91f92f91" />
+      </attributes>
+    </item>
+    <item id="719f59f0ec5d48d6976fae6f70395ef5" cid="PROP045" type="property" name="Запланировано заказов" style-class="" creator="" creation-date="09/24/2022 01:46:44" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="8f9f8bf656ad4a75ac665009ecdf1b5f" cid="PROP006" type="property" name="Изданных книг" style-class="" owner="92b6bb67ff3746d0873a4622252d7960" creator="" creation-date="09/24/2022 01:31:52" visibility="private">
+      <style style-name="Custom Style" shadow-type="smooth" shadow-offset="2,2" shadow-visible="true" shadow-color="#3A555555" shadow-radius="8" wrap-name-text="true" wrap-other-text="true" padding="2" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+        <text-style type="name" use-defaults="false" color="#FF555555" font="Segoe UI;11.25;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <text-style type="text" use-defaults="false" color="#FF555555" font="Segoe UI;9.75;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+        <text-style type="tagged-value" use-defaults="false" color="#FF555555" font="Segoe UI;9.75;" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <text-style type="stereotype" use-defaults="false" color="#FF555555" font="Segoe UI;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <background type="solid" colors="#FFF2F2F2,#FFF2F2F2" />
+        <border color="#FF555555" width="2" dash-style="Solid" />
+        <label-connector color="#80000000" width="1" dash-style="Dash" />
+        <alternate-styles>
+          <alternate-style style-name="Alternate" shadow-type="smooth" shadow-offset="2,2" shadow-visible="true" shadow-color="#322A2A2A" shadow-radius="8" wrap-name-text="true" wrap-other-text="true" padding="2" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <text-style type="name" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;11.25;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <text-style type="text" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;9.75;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+            <text-style type="tagged-value" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;9.75;" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <text-style type="stereotype" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <background type="solid" colors="#FF203D85,#FF203D85" />
+            <border color="#FF203D85" width="2" dash-style="Solid" />
+            <label-connector color="#80000000" width="1" dash-style="Dash" />
+          </alternate-style>
+        </alternate-styles>
+      </style>
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="1fd55078cd514a77b37edce638e7eaee" cid="PROP076" type="property" name="" style-class="" creator="" creation-date="09/24/2022 01:55:22" visibility="private">
+      <feature />
+      <structural-feature type="Заказ" type-id="Заказ" />
+      <property />
+    </item>
+    <item id="aaeec9cdc8714e598bc06ca6fe04b889" cid="PROP037" type="property" name="Ответсвенный менеджер" style-class="" creator="" creation-date="09/24/2022 01:43:19" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="80bcdc2db3924b23b6043d401f777adf" cid="PROP024" type="property" name="Дата закрытия" style-class="" creator="" creation-date="09/24/2022 01:38:58" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="9621db8ad87347c3ae44eec96ed1da77" cid="PROP082" type="property" name="Произведения" style-class="" owner="92b6bb67ff3746d0873a4622252d7960" creator="" creation-date="09/24/2022 01:57:06" visibility="private">
+      <style style-name="Custom Style" shadow-type="smooth" shadow-offset="2,2" shadow-visible="true" shadow-color="#3A555555" shadow-radius="8" wrap-name-text="true" wrap-other-text="true" padding="2" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+        <text-style type="name" use-defaults="false" color="#FF555555" font="Segoe UI;11.25;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <text-style type="text" use-defaults="false" color="#FF555555" font="Segoe UI;9.75;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+        <text-style type="tagged-value" use-defaults="false" color="#FF555555" font="Segoe UI;9.75;" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <text-style type="stereotype" use-defaults="false" color="#FF555555" font="Segoe UI;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <background type="solid" colors="#FFF2F2F2,#FFF2F2F2" />
+        <border color="#FF555555" width="2" dash-style="Solid" />
+        <label-connector color="#80000000" width="1" dash-style="Dash" />
+        <alternate-styles>
+          <alternate-style style-name="Alternate" shadow-type="smooth" shadow-offset="2,2" shadow-visible="true" shadow-color="#322A2A2A" shadow-radius="8" wrap-name-text="true" wrap-other-text="true" padding="2" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <text-style type="name" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;11.25;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <text-style type="text" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;9.75;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+            <text-style type="tagged-value" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;9.75;" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <text-style type="stereotype" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <background type="solid" colors="#FF203D85,#FF203D85" />
+            <border color="#FF203D85" width="2" dash-style="Solid" />
+            <label-connector color="#80000000" width="1" dash-style="Dash" />
+          </alternate-style>
+        </alternate-styles>
+      </style>
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="7b96d8cf286b43e7a17e1b7682281710" cid="PROP085" type="property" name="Партии в производстве" style-class="" creator="" creation-date="09/24/2022 01:57:37" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="8f6bcae5ccc2496a901b81d963feea9f" cid="PROP017" type="property" name="Тираж" style-class="" creator="" creation-date="09/24/2022 01:37:20" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="f2bf049867984b89af70cabf895513a5" cid="PROP013" type="property" name="Специализация" style-class="" creator="" creation-date="09/24/2022 01:35:39" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="9aef4b9603e445889680adcc91f92f91" cid="PROP090" type="property" name="Тип" style-class="" owner="716f60858952498cb72f5012350af6c2" creator="" creation-date="09/24/2022 01:59:56" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="68f1382da9e745f4b30bccb95b48e94a" cid="PROP012" type="property" name="Номер издания" style-class="" owner="716f60858952498cb72f5012350af6c2" creator="" creation-date="09/24/2022 01:35:09" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="17359a6427744dc18ffc8070c067e4ae" cid="PROP083" type="property" name="" style-class="" creator="" creation-date="09/24/2022 01:57:16" visibility="private">
+      <feature />
+      <structural-feature type="Автор" type-id="Автор" />
+      <property />
+    </item>
+    <item id="d352b96df8c1434aa2b1012a7145ca93" cid="PROP038" type="property" name="Сотрудников" style-class="" creator="" creation-date="09/24/2022 01:44:25" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="c0ec3dd390594fde9e6132e622cf37f8" cid="PROP039" type="property" name="Выполнено заказов" style-class="" creator="" creation-date="09/24/2022 01:44:30" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="985732ef90e94b239195a9d90af27afe" cid="PROP066" type="property" name="Печатный центр" style-class="" creator="" creation-date="09/24/2022 01:52:36" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="c34df29585bd4e0e8fa3be97644cefe6" cid="PROP087" type="property" name="" style-class="" creator="" creation-date="09/24/2022 01:57:53" visibility="private">
+      <feature />
+      <structural-feature type="Партия" type-id="Партия" />
+      <property />
+    </item>
+    <item id="b9216a57de894f5b8a89a9199918ec22" cid="PROP021" type="property" name="Стоимость" style-class="" creator="" creation-date="09/24/2022 01:38:21" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="2cb4e1382eb24579b55456d08259e64a" cid="PROP009" type="property" name="Жанр" style-class="" owner="716f60858952498cb72f5012350af6c2" creator="" creation-date="09/24/2022 01:34:37" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="5395ddbc54ac4910be76e03e62e4eff6" cid="PROP065" type="property" name="" style-class="" creator="" creation-date="09/24/2022 01:51:22" visibility="private">
+      <feature />
+      <structural-feature type="Сотрудник" type-id="Сотрудник" />
+      <property />
+    </item>
+    <item id="90fc68c0ecff4d3aabf0e5a4d5b3c809" cid="PROP019" type="property" name="Заказчик" style-class="" creator="" creation-date="09/24/2022 01:37:55" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="6ef84ff781a14af4abb12d813f619b6c" cid="PROP025" type="property" name="Имя" style-class="" creator="" creation-date="09/24/2022 01:39:15" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="8ac9d0dce6854ab2a0f6199d4c4cf9fd" cid="PROP080" type="property" name="" style-class="" creator="" creation-date="09/24/2022 01:56:54" visibility="private">
+      <feature />
+      <structural-feature type="Ритейлер" type-id="Ритейлер" />
+      <property />
+    </item>
+    <item id="d17e11959398477a93beb812c7d3f370" cid="PROP029" type="property" name="Стаж работы" style-class="" creator="" creation-date="09/24/2022 01:39:38" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="7360a28db9384308a24c8de24b40c690" cid="PROP005" type="property" name="Отчество" style-class="" owner="92b6bb67ff3746d0873a4622252d7960" creator="" creation-date="09/24/2022 01:31:48" visibility="private">
+      <style style-name="Custom Style" shadow-type="smooth" shadow-offset="2,2" shadow-visible="true" shadow-color="#3A555555" shadow-radius="8" wrap-name-text="true" wrap-other-text="true" padding="2" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+        <text-style type="name" use-defaults="false" color="#FF555555" font="Segoe UI;11.25;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <text-style type="text" use-defaults="false" color="#FF555555" font="Segoe UI;9.75;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+        <text-style type="tagged-value" use-defaults="false" color="#FF555555" font="Segoe UI;9.75;" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <text-style type="stereotype" use-defaults="false" color="#FF555555" font="Segoe UI;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <background type="solid" colors="#FFF2F2F2,#FFF2F2F2" />
+        <border color="#FF555555" width="2" dash-style="Solid" />
+        <label-connector color="#80000000" width="1" dash-style="Dash" />
+        <alternate-styles>
+          <alternate-style style-name="Alternate" shadow-type="smooth" shadow-offset="2,2" shadow-visible="true" shadow-color="#322A2A2A" shadow-radius="8" wrap-name-text="true" wrap-other-text="true" padding="2" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <text-style type="name" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;11.25;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <text-style type="text" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;9.75;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+            <text-style type="tagged-value" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;9.75;" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <text-style type="stereotype" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <background type="solid" colors="#FF203D85,#FF203D85" />
+            <border color="#FF203D85" width="2" dash-style="Solid" />
+            <label-connector color="#80000000" width="1" dash-style="Dash" />
+          </alternate-style>
+        </alternate-styles>
+      </style>
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="b008a47024914e10ab7c2dd97b66a5ae" cid="PROP022" type="property" name="Дата открытия" style-class="" creator="" creation-date="09/24/2022 01:38:32" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="351cbddb5c0141c1a283c22b3b1656c1" cid="PROP053" type="property" name="" style-class="" creator="" creation-date="09/24/2022 01:50:21" visibility="private">
+      <feature />
+      <structural-feature type="Сотрудник" type-id="Сотрудник" />
+      <property />
+    </item>
+    <item id="db289dfec8644f28b2189de0efe0c42d" cid="PROP052" type="property" name="" style-class="" creator="" creation-date="09/24/2022 01:50:21" visibility="private">
+      <feature />
+      <structural-feature type="Заказ" type-id="Заказ" />
+      <property />
+    </item>
+    <item id="49f4d50cb4464b3b8ab89d975f3d47c8" cid="PROP027" type="property" name="Отчество" style-class="" creator="" creation-date="09/24/2022 01:39:26" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="909f13066c034ed9b30b4dab4571536b" cid="PROP007" type="property" name="Место работы" style-class="" owner="92b6bb67ff3746d0873a4622252d7960" creator="" creation-date="09/24/2022 01:33:53" visibility="private">
+      <style style-name="Custom Style" shadow-type="smooth" shadow-offset="2,2" shadow-visible="true" shadow-color="#3A555555" shadow-radius="8" wrap-name-text="true" wrap-other-text="true" padding="2" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+        <text-style type="name" use-defaults="false" color="#FF555555" font="Segoe UI;11.25;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <text-style type="text" use-defaults="false" color="#FF555555" font="Segoe UI;9.75;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+        <text-style type="tagged-value" use-defaults="false" color="#FF555555" font="Segoe UI;9.75;" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <text-style type="stereotype" use-defaults="false" color="#FF555555" font="Segoe UI;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <background type="solid" colors="#FFF2F2F2,#FFF2F2F2" />
+        <border color="#FF555555" width="2" dash-style="Solid" />
+        <label-connector color="#80000000" width="1" dash-style="Dash" />
+        <alternate-styles>
+          <alternate-style style-name="Alternate" shadow-type="smooth" shadow-offset="2,2" shadow-visible="true" shadow-color="#322A2A2A" shadow-radius="8" wrap-name-text="true" wrap-other-text="true" padding="2" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <text-style type="name" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;11.25;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <text-style type="text" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;9.75;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+            <text-style type="tagged-value" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;9.75;" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <text-style type="stereotype" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <background type="solid" colors="#FF203D85,#FF203D85" />
+            <border color="#FF203D85" width="2" dash-style="Solid" />
+            <label-connector color="#80000000" width="1" dash-style="Dash" />
+          </alternate-style>
+        </alternate-styles>
+      </style>
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="a2e1f48434e447aea8927dd0f248018e" cid="PROP018" type="property" name="Заказ" style-class="" creator="" creation-date="09/24/2022 01:37:32" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="f4eb334664144fceae49fe16a49b6c04" cid="PROP041" type="property" name="Начальник центра" style-class="" creator="" creation-date="09/24/2022 01:44:51" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="ff599e244aad42ef88fe4eeef63f0d7b" cid="PROP067" type="property" name="" style-class="" creator="" creation-date="09/24/2022 01:53:01" visibility="private">
+      <feature />
+      <structural-feature type="Партия" type-id="Партия" />
+      <property />
+    </item>
+    <item id="dbe66af3d9074271af7483b2a02f2b19" cid="PROP008" type="property" name="Название" style-class="" owner="716f60858952498cb72f5012350af6c2" creator="" creation-date="09/24/2022 01:34:32" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="1324ca538a3c4194b9c48322c50dd436" cid="PROP011" type="property" name="Автор(ы)" style-class="" owner="716f60858952498cb72f5012350af6c2" creator="" creation-date="09/24/2022 01:34:49" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="83facab16f054b6489d1ee871f663424" cid="PROP089" type="property" name="" style-class="" creator="" creation-date="09/24/2022 01:58:17" visibility="private">
+      <feature />
+      <structural-feature type="Сотрудник" type-id="Сотрудник" />
+      <property />
+    </item>
+    <item id="2af268db087f4c84a508b2e3441b2567" cid="PROP036" type="property" name="Адрес" style-class="" creator="" creation-date="09/24/2022 01:41:10" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="77913aef6b1f46d3bcf0db6b24da42f0" cid="PROP014" type="property" name="Произведение" style-class="" creator="" creation-date="09/24/2022 01:36:04" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="a9aa2e06bf6449658f6d65ef3f7864ca" cid="PROP075" type="property" name="" style-class="" creator="" creation-date="09/24/2022 01:55:22" visibility="private">
+      <feature />
+      <structural-feature type="Партия" type-id="Партия" />
+      <property />
+    </item>
+    <item id="7a25bf96f83c40ae8bc2e1b37bf9933d" cid="PROP004" type="property" name="Фамилия" style-class="" owner="92b6bb67ff3746d0873a4622252d7960" creator="" creation-date="09/24/2022 01:31:43" visibility="private">
+      <style style-name="Custom Style" shadow-type="smooth" shadow-offset="2,2" shadow-visible="true" shadow-color="#3A555555" shadow-radius="8" wrap-name-text="true" wrap-other-text="true" padding="2" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+        <text-style type="name" use-defaults="false" color="#FF555555" font="Segoe UI;11.25;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <text-style type="text" use-defaults="false" color="#FF555555" font="Segoe UI;9.75;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+        <text-style type="tagged-value" use-defaults="false" color="#FF555555" font="Segoe UI;9.75;" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <text-style type="stereotype" use-defaults="false" color="#FF555555" font="Segoe UI;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <background type="solid" colors="#FFF2F2F2,#FFF2F2F2" />
+        <border color="#FF555555" width="2" dash-style="Solid" />
+        <label-connector color="#80000000" width="1" dash-style="Dash" />
+        <alternate-styles>
+          <alternate-style style-name="Alternate" shadow-type="smooth" shadow-offset="2,2" shadow-visible="true" shadow-color="#322A2A2A" shadow-radius="8" wrap-name-text="true" wrap-other-text="true" padding="2" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <text-style type="name" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;11.25;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <text-style type="text" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;9.75;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+            <text-style type="tagged-value" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;9.75;" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <text-style type="stereotype" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <background type="solid" colors="#FF203D85,#FF203D85" />
+            <border color="#FF203D85" width="2" dash-style="Solid" />
+            <label-connector color="#80000000" width="1" dash-style="Dash" />
+          </alternate-style>
+        </alternate-styles>
+      </style>
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="8d16c16b86f949168ab19e22ff1c4088" cid="PROP061" type="property" name="" style-class="" creator="" creation-date="09/24/2022 01:51:05" visibility="private">
+      <feature />
+      <structural-feature type="Сотрудник" type-id="Сотрудник" />
+      <property />
+    </item>
+    <item id="129f61cb10684e84a9cda810163fcb94" cid="PROP088" type="property" name="" style-class="" creator="" creation-date="09/24/2022 01:58:17" visibility="private">
+      <feature />
+      <structural-feature type="Ритейлер" type-id="Ритейлер" />
+      <property />
+    </item>
+    <item id="70e63c18c6554cdb85d72aee9d82936b" cid="PROP081" type="property" name="" style-class="" creator="" creation-date="09/24/2022 01:56:54" visibility="private">
+      <feature />
+      <structural-feature type="Заказ" type-id="Заказ" />
+      <property />
+    </item>
+    <item id="715ae507895d40d3b8ab57c54e15ba0f" cid="PROP020" type="property" name="Партии" style-class="" creator="" creation-date="09/24/2022 01:38:01" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="312eb28a2dec451a97ba9667784c304b" cid="PROP044" type="property" name="Ответсвенный менеджер" style-class="" creator="" creation-date="09/24/2022 01:46:35" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="fb225cbe346d435589c843b5f4819c56" cid="PROP015" type="property" name="Название" style-class="" creator="" creation-date="09/24/2022 01:36:30" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="c56e7c85248c41d8bf3960f8924cb277" cid="PROP060" type="property" name="" style-class="" creator="" creation-date="09/24/2022 01:51:05" visibility="private">
+      <feature />
+      <structural-feature type="Печатный центр" type-id="Печатный центр" />
+      <property />
+    </item>
+    <item id="d5acb4f463574f449ef4aebcc75abff3" cid="PROP016" type="property" name="Общее кол-во заказов" style-class="" creator="" creation-date="09/24/2022 01:36:37" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="52a22266f33b4aba9a8417f20ff6f725" cid="PROP028" type="property" name="Должность" style-class="" creator="" creation-date="09/24/2022 01:39:31" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="d2e91efe7e334e84bdadd97bdbb444fe" cid="PROP068" type="property" name="" style-class="" creator="" creation-date="09/24/2022 01:53:01" visibility="private">
+      <feature />
+      <structural-feature type="Произведение" type-id="Произведение" />
+      <property />
+    </item>
+    <item id="884a17b1b2b1424897db249cb1a28d86" cid="PROP003" type="property" name="Имя" style-class="" owner="92b6bb67ff3746d0873a4622252d7960" creator="" creation-date="09/24/2022 01:31:33" visibility="private">
+      <style style-name="Custom Style" shadow-type="smooth" shadow-offset="2,2" shadow-visible="true" shadow-color="#3A555555" shadow-radius="8" wrap-name-text="true" wrap-other-text="true" padding="2" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+        <text-style type="name" use-defaults="false" color="#FF555555" font="Segoe UI;11.25;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <text-style type="text" use-defaults="false" color="#FF555555" font="Segoe UI;9.75;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+        <text-style type="tagged-value" use-defaults="false" color="#FF555555" font="Segoe UI;9.75;" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <text-style type="stereotype" use-defaults="false" color="#FF555555" font="Segoe UI;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+        <background type="solid" colors="#FFF2F2F2,#FFF2F2F2" />
+        <border color="#FF555555" width="2" dash-style="Solid" />
+        <label-connector color="#80000000" width="1" dash-style="Dash" />
+        <alternate-styles>
+          <alternate-style style-name="Alternate" shadow-type="smooth" shadow-offset="2,2" shadow-visible="true" shadow-color="#322A2A2A" shadow-radius="8" wrap-name-text="true" wrap-other-text="true" padding="2" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <text-style type="name" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;11.25;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <text-style type="text" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;9.75;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+            <text-style type="tagged-value" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;9.75;" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <text-style type="stereotype" use-defaults="false" color="#FFE9E9E9" font="Segoe UI;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+            <background type="solid" colors="#FF203D85,#FF203D85" />
+            <border color="#FF203D85" width="2" dash-style="Solid" />
+            <label-connector color="#80000000" width="1" dash-style="Dash" />
+          </alternate-style>
+        </alternate-styles>
+      </style>
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+    <item id="097908168c1d43bfbeb2a64a2902f372" cid="PROP078" type="property" name="Выполненные заказы" style-class="" creator="" creation-date="09/24/2022 01:56:26" visibility="private">
+      <feature />
+      <structural-feature type="" type-id="" />
+      <property />
+    </item>
+  </items>
+  <models>
+    <model id="pd7f73b8104e642fa93689b491ef77a16_727945349" name="MainModel" namespace="" order-index="1" expanded="true">
+      <meta>
+        <authors>
+          <author>Артемий Штирнер</author>
+        </authors>
+        <description />
+        <creation-date>09/24/2022 01:19:42</creation-date>
+        <change-date>01/01/0001 00:00:00</change-date>
+        <revision-count>0</revision-count>
+        <version />
+      </meta>
+      <abstract-items />
+      <sub-models />
+      <diagram type="entity-relationship" id="p3248bcb5edaf40909236bc1f36dfbb0d_926008260" name="DatabaseEntitiesRelation" order-index="2" expanded="true" overview-order-index="0" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-field-tags="true" show-empty-compartments="true" show-special-indicators="false" show-rules="true" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-visibility-sign="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-data="true" show-description="false" show-field-description="false" auto-routed-paths="false" default-line-style="default" view-location="-199,-412" zoom="0.7">
+        <style>
+          <background-color index="1" color="#FFFFFFFF" />
+          <background-color index="2" color="#FFFFFFFF" />
+          <background-type type="solid" />
+        </style>
+        <meta>
+          <authors>
+            <author> </author>
+          </authors>
+          <description />
+          <creation-date>10/07/2022 18:35:49</creation-date>
+          <change-date>11/16/2022 15:05:22</change-date>
+          <revision-count>0</revision-count>
+          <version />
+        </meta>
+        <abstract-items>
+          <item id="fe412f9fe38c4da6bd1fb2276d01aa56" cid="REL037" type="erd-relationship" name="" style-class="" change-tracking-state="added" creator="" creation-date="10/07/2022 23:57:01" from="48220c54c3b34c4bb2fd45f497e11e4e" to="8ed6264f13df4504b4f6969cd9ea7550">
+            <erd-relation type="Identifying" multiplicity-from="1" multiplicity-to="0..*">
+              <attribute-pairs>
+                <attribute-pair from-attribute="ab29115bf2fd24b21bc08f835d905a941763" to-attribute="af1e5c3a2d5d44824bbe4468e603ee53081" />
+              </attribute-pairs>
+            </erd-relation>
+          </item>
+          <item id="bdb79f2c52c247ba80b89877dd63d1d4" cid="REL023" type="erd-relationship" name="" style-class="" change-tracking-state="added" creator="" creation-date="10/07/2022 19:12:55" from="ae2084b124704d2b8e14d43a843c275e" to="657400af4f464468abccc422382ca9d5">
+            <erd-relation type="Identifying" multiplicity-from="1" multiplicity-to="1">
+              <attribute-pairs>
+                <attribute-pair from-attribute="a479cbf56c13d483d95982be0964146f8754" to-attribute="ad38319e8ba0d48b08e4e9a7085aec27f637" />
+              </attribute-pairs>
+            </erd-relation>
+          </item>
+          <item id="726e67202b6f41479aefa947957e1b1a" cid="ENT014" type="erd-entity" name="Статус выполнения" style-class="" change-tracking-state="added" creator="" creation-date="10/08/2022 11:21:42">
+            <entity description="" />
+            <attributes>
+              <attribute uid="a1e2330441d414a4ea8a57548bf1a917f913" cid="EA064" name="id" type="Integer" type-id="Uml.Integer" type-size="" foreign-key="false" primary-key="true" nullable="false" description="" default-value="" auto-increment="true" creation-date="10/08/2022 11:21:51" />
+              <attribute uid="a3306641332c4450ba1e25bc122770781794" cid="EA065" name="Статус_выполнения" type="String" type-id="Uml.String" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/08/2022 11:22:01" />
+            </attributes>
+            <indexes />
+          </item>
+          <item id="1e3dd29954de403e81cf7f9858f128c7" cid="REL045" type="erd-relationship" name="" style-class="" change-tracking-state="added" creator="" creation-date="10/08/2022 11:16:51" from="333abe14498647d1aa40d366ddec7de9" to="ae2084b124704d2b8e14d43a843c275e">
+            <erd-relation type="Identifying" multiplicity-from="1" multiplicity-to="0..*">
+              <attribute-pairs>
+                <attribute-pair from-attribute="aa6315ba580f842c193be8e77ae1de5b7773" to-attribute="a23da79ca83184e5d92f2199c30f40b2a490" />
+              </attribute-pairs>
+            </erd-relation>
+          </item>
+          <item id="19c9a752818d43a8acd3d649d23c1615" cid="REL059" type="erd-relationship" name="" style-class="" change-tracking-state="added" creator="" creation-date="11/16/2022 15:05:19" from="1c354d60ba314b01b37d413051eeb015" to="3e63906c2c76421885a011e5630ed384">
+            <erd-relation type="Identifying" multiplicity-from="1" multiplicity-to="1..*">
+              <attribute-pairs>
+                <attribute-pair from-attribute="a38a1b7bd681740109c7d02d20a20b857488" to-attribute="ad35167dec5ec4773b5838b3ff841f10022" />
+              </attribute-pairs>
+            </erd-relation>
+          </item>
+          <item id="43d1330a8b8c4f8da91218149aa2df8a" cid="REL051" type="erd-relationship" name="" style-class="" change-tracking-state="added" creator="" creation-date="10/08/2022 11:20:46" from="454ff6ef0ea44fafafe759f1e57f256c" to="05697b6f528840b987744ac4abc30942">
+            <erd-relation type="Identifying" multiplicity-from="1" multiplicity-to="0..*">
+              <attribute-pairs>
+                <attribute-pair from-attribute="a68d5f0853cb5429f9599ab72741a3fbe404" to-attribute="ad4cf3ca8ad7c4ca8ae6e42a704698116878" />
+              </attribute-pairs>
+            </erd-relation>
+          </item>
+          <item id="dbe3b46c77e54949bd7aa69ff7688502" cid="REL057" type="erd-relationship" name="" style-class="" change-tracking-state="added" creator="" creation-date="10/08/2022 11:33:09" from="94870b1e21bf4ea6ab19e49e5795ce50" to="f20f70a977c3412cab0ddbaa33a261c9">
+            <erd-relation type="Identifying" multiplicity-from="1" multiplicity-to="1..*">
+              <attribute-pairs>
+                <attribute-pair from-attribute="ab52fc7f3492041df841ff3381da1314d436" to-attribute="a085d5560001e4ed899dc4e80b647ce53730" />
+              </attribute-pairs>
+            </erd-relation>
+          </item>
+          <item id="0cfe12112a4f4b9ba8c02627a058fc4c" cid="REL050" type="erd-relationship" name="" style-class="" change-tracking-state="added" creator="" creation-date="10/08/2022 11:20:08" from="ae2084b124704d2b8e14d43a843c275e" to="8ed6264f13df4504b4f6969cd9ea7550">
+            <erd-relation type="Identifying" multiplicity-from="1" multiplicity-to="0..*">
+              <attribute-pairs>
+                <attribute-pair from-attribute="a479cbf56c13d483d95982be0964146f8754" to-attribute="ab5016e083f894787aada86a416c36f46560" />
+              </attribute-pairs>
+            </erd-relation>
+          </item>
+          <item id="f20f70a977c3412cab0ddbaa33a261c9" cid="ENT016" type="erd-entity" name="Авторство" style-class="" change-tracking-state="added" creator="" creation-date="10/08/2022 11:31:13">
+            <entity description="" />
+            <attributes>
+              <attribute uid="a085d5560001e4ed899dc4e80b647ce53730" cid="EA068" name="Автор" type="UUID" type-id="UUID" type-size="" foreign-key="true" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/08/2022 11:31:29" />
+              <attribute uid="af05c820792ed41e4a7c2f7e632f08a9f764" cid="EA069" name="Произведение" type="UUID" type-id="UUID" type-size="" foreign-key="true" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/08/2022 11:31:47" />
+            </attributes>
+            <indexes />
+          </item>
+          <item id="d4270a72e59e4842bffdd88bea8f7dee" cid="ENT003" type="erd-entity" name="Entity3" style-class="" change-tracking-state="added" creator="" creation-date="10/07/2022 18:40:09">
+            <entity description="" />
+            <attributes>
+              <attribute uid="ae9eb8712884f4c2580ff98cecbe36f9825" cid="EA003" name="dwef" type="" type-id="" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 18:40:11" />
+            </attributes>
+            <indexes />
+          </item>
+          <item id="be0a8b0f1c9549fa83533a5e287e5479" cid="REL047" type="erd-relationship" name="" style-class="" change-tracking-state="added" creator="" creation-date="10/08/2022 11:17:21" from="9bfd8f3f04b14e6d98fcbb0e5df32883" to="454ff6ef0ea44fafafe759f1e57f256c">
+            <erd-relation type="Identifying" multiplicity-from="1" multiplicity-to="0..*">
+              <attribute-pairs>
+                <attribute-pair from-attribute="afc1c9020d1844095b96f7167db30dd3777" to-attribute="a58682124e51d4b1f9008e735dab208c6459" />
+              </attribute-pairs>
+            </erd-relation>
+          </item>
+          <item id="48220c54c3b34c4bb2fd45f497e11e4e" cid="ENT012" type="erd-entity" name="Заказчик" style-class="" change-tracking-state="added" creator="" creation-date="10/07/2022 23:46:16">
+            <entity description="" />
+            <attributes>
+              <attribute uid="ab29115bf2fd24b21bc08f835d905a941763" cid="EA052" name="id" type="UUID" type-id="UUID" type-size="" foreign-key="false" primary-key="true" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 23:47:22" />
+              <attribute uid="a2f7b4bd72b2b42f1ad61811c839486d1626" cid="EA053" name="Название" type="String" type-id="Uml.String" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 23:48:34" />
+              <attribute uid="ae8bd44e5776f4cbca16dc78be931c14d829" cid="EA054" name="Специализация" type="String" type-id="Uml.String" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 23:48:51" />
+              <attribute uid="a779ec04ed8484086bee50c6c9ce3c75f715" cid="EA055" name="Общее_кол-во_заказов" type="Integer" type-id="Uml.Integer" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 23:49:01" />
+              <attribute uid="a33e72db8713c4bb6844fde1030d076ea752" cid="EA058" name="Ответственный_менеджер" type="UUID" type-id="UUID" type-size="" foreign-key="true" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 23:49:45" />
+            </attributes>
+            <indexes />
+          </item>
+          <item id="bfdb8c467a6c4c4c972b609493b4e6e5" cid="REL058" type="erd-relationship" name="" style-class="" change-tracking-state="added" creator="" creation-date="11/16/2022 15:03:56" from="454ff6ef0ea44fafafe759f1e57f256c" to="3e63906c2c76421885a011e5630ed384">
+            <erd-relation type="Identifying" multiplicity-from="1" multiplicity-to="1..*">
+              <attribute-pairs>
+                <attribute-pair from-attribute="a68d5f0853cb5429f9599ab72741a3fbe404" to-attribute="a3d72b5aa26834abcbcf25a120e0aac7e513" />
+              </attribute-pairs>
+            </erd-relation>
+          </item>
+          <item id="657400af4f464468abccc422382ca9d5" cid="ENT009" type="erd-entity" name="Печатный центр" style-class="" change-tracking-state="added" creator="" creation-date="10/07/2022 19:09:11">
+            <entity description="" />
+            <attributes>
+              <attribute uid="aa5a447e16e874f9da11e436de5374d26703" cid="EA038" name="id" type="UUID" type-id="UUID" type-size="" foreign-key="false" primary-key="true" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:11:45" />
+              <attribute uid="acc2d099cdfcb46eeba6c45d770da8540327" cid="EA033" name="Адрес" type="String" type-id="Uml.String" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:09:46" />
+              <attribute uid="ad38319e8ba0d48b08e4e9a7085aec27f637" cid="EA034" name="Начальник_центра" type="UUID" type-id="UUID" type-size="" foreign-key="true" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:09:51" />
+              <attribute uid="a51140135e0e14f81bb5aa324bb718ac4602" cid="EA035" name="Партий_в_производстве" type="Integer" type-id="Uml.Integer" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:09:57" />
+              <attribute uid="a9a6f4abcf17b4239942167630c73f1dd975" cid="EA036" name="Произведено_партий" type="Integer" type-id="Uml.Integer" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:10:11" />
+            </attributes>
+            <indexes />
+          </item>
+          <item id="333abe14498647d1aa40d366ddec7de9" cid="ENT008" type="erd-entity" name="Должность" style-class="" change-tracking-state="added" creator="" creation-date="10/07/2022 19:06:49">
+            <entity description="" />
+            <attributes>
+              <attribute uid="aa6315ba580f842c193be8e77ae1de5b7773" cid="EA030" name="id" type="Integer" type-id="Uml.Integer" type-size="" foreign-key="false" primary-key="true" nullable="false" description="" default-value="" auto-increment="true" creation-date="10/07/2022 19:06:57" />
+              <attribute uid="a845ba750a8464f6c87e9b272b03aaedb632" cid="EA031" name="Должность" type="String" type-id="Uml.String" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:07:01" />
+            </attributes>
+            <indexes />
+          </item>
+          <item id="8ed6264f13df4504b4f6969cd9ea7550" cid="ENT011" type="erd-entity" name="Заказ" style-class="" change-tracking-state="added" creator="" creation-date="10/07/2022 19:18:54">
+            <entity description="" />
+            <attributes>
+              <attribute uid="ac91c0f1692794792a4b664a9ca377e6d377" cid="EA043" name="id" type="UUID" type-id="UUID" type-size="" foreign-key="false" primary-key="true" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:19:00" />
+              <attribute uid="af1e5c3a2d5d44824bbe4468e603ee53081" cid="EA044" name="Заказчик" type="" type-id="" type-size="" foreign-key="true" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:19:06" />
+              <attribute uid="a052a87334f864c86b0014cd25a4f845c52" cid="EA046" name="Стоимость" type="BigReal" type-id="Uml.BigReal" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:19:17" />
+              <attribute uid="a4c183d4a22884bc8ac9db0435edb03ba116" cid="EA047" name="Дата_открытия" type="DateTime" type-id="Uml.DateTime" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:19:25" />
+              <attribute uid="aeffde6be6b4e4f52ac0c2fea745e0ee7896" cid="EA048" name="Срок_выполнения" type="DateTime" type-id="Uml.DateTime" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:19:30" />
+              <attribute uid="a6f0d4169b50a4e5c9b72cb9f9ec030944" cid="EA049" name="Дата_закрытия" type="DateTime" type-id="Uml.DateTime" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:19:51" />
+              <attribute uid="ab4993200231b42d69856c3123212430618" cid="EA050" name="Статус_выполнения" type="Integer" type-id="Uml.Integer" type-size="" foreign-key="true" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:19:58" />
+              <attribute uid="ab5016e083f894787aada86a416c36f46560" cid="EA051" name="Ответсвенный_менеджер" type="UUID" type-id="UUID" type-size="" foreign-key="true" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:20:07" />
+            </attributes>
+            <indexes />
+          </item>
+          <item id="9bfd8f3f04b14e6d98fcbb0e5df32883" cid="ENT006" type="erd-entity" name="Тип произведения" style-class="" change-tracking-state="added" creator="" creation-date="10/07/2022 18:56:51">
+            <entity description="" />
+            <attributes>
+              <attribute uid="afc1c9020d1844095b96f7167db30dd3777" cid="EA022" name="id" type="Integer" type-id="Uml.Integer" type-size="" foreign-key="false" primary-key="true" nullable="false" description="" default-value="" auto-increment="true" creation-date="10/07/2022 18:57:05" />
+              <attribute uid="aef91ecd71c344fcebd9400da6fd254bf684" cid="EA023" name="Тип" type="String" type-id="Uml.String" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 18:57:24" />
+            </attributes>
+            <indexes />
+          </item>
+          <item id="fde1349383e14a3c865c59e26fa2ac2c" cid="REL056" type="erd-relationship" name="" style-class="" change-tracking-state="added" creator="" creation-date="10/08/2022 11:32:22" from="454ff6ef0ea44fafafe759f1e57f256c" to="f20f70a977c3412cab0ddbaa33a261c9">
+            <erd-relation type="Identifying" multiplicity-from="1" multiplicity-to="1..*">
+              <attribute-pairs>
+                <attribute-pair from-attribute="a68d5f0853cb5429f9599ab72741a3fbe404" to-attribute="af05c820792ed41e4a7c2f7e632f08a9f764" />
+              </attribute-pairs>
+            </erd-relation>
+          </item>
+          <item id="b4f73567fd524c798a6a4b41626a8619" cid="REL052" type="erd-relationship" name="" style-class="" change-tracking-state="added" creator="" creation-date="10/08/2022 11:22:47" from="726e67202b6f41479aefa947957e1b1a" to="8ed6264f13df4504b4f6969cd9ea7550">
+            <erd-relation type="Identifying" multiplicity-from="1" multiplicity-to="1..*">
+              <attribute-pairs>
+                <attribute-pair from-attribute="a1e2330441d414a4ea8a57548bf1a917f913" to-attribute="ab4993200231b42d69856c3123212430618" />
+              </attribute-pairs>
+            </erd-relation>
+          </item>
+          <item id="454ff6ef0ea44fafafe759f1e57f256c" cid="ENT005" type="erd-entity" name="Произведение" style-class="" change-tracking-state="added" creator="" creation-date="10/07/2022 18:49:27">
+            <entity description="" />
+            <attributes>
+              <attribute uid="a68d5f0853cb5429f9599ab72741a3fbe404" cid="EA021" name="id" type="UUID" type-id="UUID" type-size="" foreign-key="false" primary-key="true" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 18:51:50" />
+              <attribute uid="a9a258854844345148dd5a4bad7047c6c905" cid="EA016" name="Название" type="String" type-id="Uml.String" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 18:51:03" />
+              <attribute uid="a0def22b78166497ea8139289469132da833" cid="EA019" name="Номер_издания" type="String" type-id="Uml.String" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 18:51:21" />
+              <attribute uid="a58682124e51d4b1f9008e735dab208c6459" cid="EA020" name="Тип" type="Integer" type-id="Uml.Integer" type-size="" foreign-key="true" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 18:51:30" />
+            </attributes>
+            <indexes />
+          </item>
+          <item id="aa6479e0b319404498518687cdaef97b" cid="REL053" type="erd-relationship" name="" style-class="" change-tracking-state="added" creator="" creation-date="10/08/2022 11:26:26" from="669f8ad255c6482bb90dec617a5c655d" to="05697b6f528840b987744ac4abc30942">
+            <erd-relation type="Identifying" multiplicity-from="1" multiplicity-to="1..*">
+              <attribute-pairs>
+                <attribute-pair from-attribute="ae908576486524fe4bf25625ddb676f7b433" to-attribute="aa4e1882f9fdf45c29d02e7c24c98baf4860" />
+              </attribute-pairs>
+            </erd-relation>
+          </item>
+          <item id="92b6bb67ff3746d0873a4622252d7960" cid="C001" type="class" name="Автор" style-class="" change-tracking-state="added" creator="" creation-date="09/24/2022 01:19:51" visibility="undefined">
+            <owned-items>
+              <owned-item ref="884a17b1b2b1424897db249cb1a28d86" />
+              <owned-item ref="7a25bf96f83c40ae8bc2e1b37bf9933d" />
+              <owned-item ref="7360a28db9384308a24c8de24b40c690" />
+              <owned-item ref="8f9f8bf656ad4a75ac665009ecdf1b5f" />
+              <owned-item ref="909f13066c034ed9b30b4dab4571536b" />
+              <owned-item ref="9621db8ad87347c3ae44eec96ed1da77" />
+              <owned-item ref="8f9f8bf656ad4a75ac665009ecdf1b5f" />
+              <owned-item ref="9621db8ad87347c3ae44eec96ed1da77" />
+              <owned-item ref="8f9f8bf656ad4a75ac665009ecdf1b5f" />
+              <owned-item ref="9621db8ad87347c3ae44eec96ed1da77" />
+              <owned-item ref="8f9f8bf656ad4a75ac665009ecdf1b5f" />
+              <owned-item ref="9621db8ad87347c3ae44eec96ed1da77" />
+              <owned-item ref="7360a28db9384308a24c8de24b40c690" />
+              <owned-item ref="909f13066c034ed9b30b4dab4571536b" />
+              <owned-item ref="7a25bf96f83c40ae8bc2e1b37bf9933d" />
+              <owned-item ref="884a17b1b2b1424897db249cb1a28d86" />
+              <owned-item ref="8f9f8bf656ad4a75ac665009ecdf1b5f" />
+              <owned-item ref="9621db8ad87347c3ae44eec96ed1da77" />
+              <owned-item ref="7360a28db9384308a24c8de24b40c690" />
+              <owned-item ref="909f13066c034ed9b30b4dab4571536b" />
+              <owned-item ref="7a25bf96f83c40ae8bc2e1b37bf9933d" />
+              <owned-item ref="884a17b1b2b1424897db249cb1a28d86" />
+              <owned-item ref="8f9f8bf656ad4a75ac665009ecdf1b5f" />
+              <owned-item ref="9621db8ad87347c3ae44eec96ed1da77" />
+              <owned-item ref="7360a28db9384308a24c8de24b40c690" />
+              <owned-item ref="909f13066c034ed9b30b4dab4571536b" />
+              <owned-item ref="7a25bf96f83c40ae8bc2e1b37bf9933d" />
+              <owned-item ref="884a17b1b2b1424897db249cb1a28d86" />
+              <owned-item ref="8f9f8bf656ad4a75ac665009ecdf1b5f" />
+              <owned-item ref="9621db8ad87347c3ae44eec96ed1da77" />
+              <owned-item ref="7360a28db9384308a24c8de24b40c690" />
+              <owned-item ref="909f13066c034ed9b30b4dab4571536b" />
+              <owned-item ref="7a25bf96f83c40ae8bc2e1b37bf9933d" />
+              <owned-item ref="884a17b1b2b1424897db249cb1a28d86" />
+              <owned-item ref="8f9f8bf656ad4a75ac665009ecdf1b5f" />
+              <owned-item ref="9621db8ad87347c3ae44eec96ed1da77" />
+              <owned-item ref="7360a28db9384308a24c8de24b40c690" />
+              <owned-item ref="909f13066c034ed9b30b4dab4571536b" />
+              <owned-item ref="7a25bf96f83c40ae8bc2e1b37bf9933d" />
+              <owned-item ref="884a17b1b2b1424897db249cb1a28d86" />
+              <owned-item ref="8f9f8bf656ad4a75ac665009ecdf1b5f" />
+              <owned-item ref="9621db8ad87347c3ae44eec96ed1da77" />
+              <owned-item ref="7360a28db9384308a24c8de24b40c690" />
+              <owned-item ref="909f13066c034ed9b30b4dab4571536b" />
+              <owned-item ref="7a25bf96f83c40ae8bc2e1b37bf9933d" />
+              <owned-item ref="884a17b1b2b1424897db249cb1a28d86" />
+            </owned-items>
+            <attributes>
+              <attribute id="a8fcdd8a9ec474a208743f02c6f17b2d8149" cid="PROP003" name="Имя" creation-date="09/24/2022 01:31:33" property-ref="884a17b1b2b1424897db249cb1a28d86" />
+              <attribute id="afb29c2c0a90b40e38deb8cb89642f0ad337" cid="PROP004" name="Фамилия" creation-date="09/24/2022 01:31:43" property-ref="7a25bf96f83c40ae8bc2e1b37bf9933d" />
+              <attribute id="a8205af6b97a9468389af48688e55192294" cid="PROP005" name="Отчество" creation-date="09/24/2022 01:31:48" property-ref="7360a28db9384308a24c8de24b40c690" />
+              <attribute id="a3bab2e45d44441e9bae3d6c2c9e6a561509" cid="PROP006" name="Изданных книг" creation-date="09/24/2022 01:31:52" property-ref="8f9f8bf656ad4a75ac665009ecdf1b5f" />
+              <attribute id="abec25a9bd5d74ccea28dcc6310a17216932" cid="PROP007" name="Место работы" creation-date="09/24/2022 01:33:53" property-ref="909f13066c034ed9b30b4dab4571536b" />
+              <attribute id="a778bf7b0e6f343d29b154df63d4a5dbf974" cid="PROP082" name="Произведения" creation-date="09/24/2022 01:57:06" property-ref="9621db8ad87347c3ae44eec96ed1da77" />
+            </attributes>
+            <source-codes>
+              <source-code language="ActionScript" />
+            </source-codes>
+          </item>
+          <item id="669f8ad255c6482bb90dec617a5c655d" cid="ENT015" type="erd-entity" name="Статус печати" style-class="" change-tracking-state="added" creator="" creation-date="10/08/2022 11:25:17">
+            <entity description="" />
+            <attributes>
+              <attribute uid="ae908576486524fe4bf25625ddb676f7b433" cid="EA066" name="id" type="Integer" type-id="Uml.Integer" type-size="" foreign-key="false" primary-key="true" nullable="false" description="" default-value="" auto-increment="true" creation-date="10/08/2022 11:25:31" />
+              <attribute uid="a2852f2caac4544eb85f17939cc01245b371" cid="EA067" name="Статус_печати" type="String" type-id="Uml.String" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/08/2022 11:25:55" />
+            </attributes>
+            <indexes />
+          </item>
+          <item id="36b3c88af2a644e189fe4bf3fbede2b5" cid="REL027" type="erd-relationship" name="" style-class="" change-tracking-state="added" creator="" creation-date="10/07/2022 19:23:57" from="8ed6264f13df4504b4f6969cd9ea7550" to="05697b6f528840b987744ac4abc30942">
+            <erd-relation type="Identifying" multiplicity-from="1" multiplicity-to="1..*">
+              <attribute-pairs>
+                <attribute-pair from-attribute="ac91c0f1692794792a4b664a9ca377e6d377" to-attribute="af45b041d4d0b4d1b910e4272a93074db467" />
+              </attribute-pairs>
+            </erd-relation>
+          </item>
+          <item id="3e63906c2c76421885a011e5630ed384" cid="ENT017" type="erd-entity" name="Жанровая принадлежность" style-class="" change-tracking-state="added" creator="" creation-date="11/16/2022 14:58:07">
+            <entity description="" />
+            <attributes>
+              <attribute uid="a3d72b5aa26834abcbcf25a120e0aac7e513" cid="EA071" name="Произведение" type="UUID" type-id="UUID" type-size="" foreign-key="true" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="11/16/2022 14:58:47" />
+              <attribute uid="ad35167dec5ec4773b5838b3ff841f10022" cid="EA072" name="Жанр" type="Integer" type-id="Uml.Integer" type-size="" foreign-key="true" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="11/16/2022 14:59:29" />
+            </attributes>
+            <indexes />
+          </item>
+          <item id="5e9f4d7167ef42b0baea44e9984f184a" cid="REL024" type="erd-relationship" name="" style-class="" change-tracking-state="added" creator="" creation-date="10/07/2022 19:15:24" from="657400af4f464468abccc422382ca9d5" to="05697b6f528840b987744ac4abc30942">
+            <erd-relation type="Identifying" multiplicity-from="1" multiplicity-to="0..*">
+              <attribute-pairs>
+                <attribute-pair from-attribute="aa5a447e16e874f9da11e436de5374d26703" to-attribute="a04a4c099b8a045d587a94617e20a9f0b54" />
+              </attribute-pairs>
+            </erd-relation>
+          </item>
+          <item id="05697b6f528840b987744ac4abc30942" cid="ENT010" type="erd-entity" name="Партия" style-class="" change-tracking-state="added" creator="" creation-date="10/07/2022 19:14:17">
+            <entity description="" />
+            <attributes>
+              <attribute uid="ad5774b842a5f46ee88735aa52f4ab52d529" cid="EA039" name="id" type="UUID" type-id="UUID" type-size="" foreign-key="false" primary-key="true" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:14:24" />
+              <attribute uid="af45b041d4d0b4d1b910e4272a93074db467" cid="EA041" name="Заказ" type="UUID" type-id="UUID" type-size="" foreign-key="true" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:14:47" />
+              <attribute uid="ad4cf3ca8ad7c4ca8ae6e42a704698116878" cid="EA040" name="Произведение" type="UUID" type-id="UUID" type-size="" foreign-key="true" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:14:29" />
+              <attribute uid="a04a4c099b8a045d587a94617e20a9f0b54" cid="EA042" name="Печатный_центр" type="" type-id="" type-size="" foreign-key="true" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:14:52" />
+              <attribute uid="aa4e1882f9fdf45c29d02e7c24c98baf4860" cid="EA059" name="Статус_печати" type="Integer" type-id="Uml.Integer" type-size="" foreign-key="true" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/08/2022 00:27:17" />
+            </attributes>
+            <indexes />
+          </item>
+          <item id="5125a36f5bc64363a5937da292c2da66" cid="ENT002" type="erd-entity" name="Entity2" style-class="" change-tracking-state="added" creator="" creation-date="10/07/2022 18:40:06">
+            <entity description="" />
+            <attributes>
+              <attribute uid="a8aa5fc345c6f40bebdb089806aecf75b236" cid="EA004" name="NewAttribute1" type="" type-id="" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 18:40:19" />
+              <attribute uid="a3fc785f945934b6b92bf433431eb6fe0312" cid="EA005" name="wfew" type="" type-id="" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 18:40:19" />
+            </attributes>
+            <indexes />
+          </item>
+          <item id="94870b1e21bf4ea6ab19e49e5795ce50" cid="ENT004" type="erd-entity" name="Автор" style-class="" change-tracking-state="added" creator="" creation-date="10/07/2022 18:42:42">
+            <entity description="" />
+            <attributes>
+              <attribute uid="ab52fc7f3492041df841ff3381da1314d436" cid="EA015" name="id" type="UUID" type-id="UUID" type-size="" foreign-key="false" primary-key="true" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 18:48:07" />
+              <attribute uid="a5042dfe73c034b49922c4ecafa5767d9715" cid="EA006" name="Имя" type="String" type-id="Uml.String" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 18:43:56" />
+              <attribute uid="a5230839e7f2c4208b8d80661fc90ed7c925" cid="EA007" name="Фамилия" type="String" type-id="Uml.String" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 18:44:01" />
+              <attribute uid="aa4d487856a5c4e13ae8110e19003790a964" cid="EA008" name="Отчество" type="String" type-id="Uml.String" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 18:44:08" />
+              <attribute uid="af854b454b6dc4014827a2f0308921cb7149" cid="EA014" name="Издано_произведений" type="Integer" type-id="Uml.Integer" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 18:47:27" />
+            </attributes>
+            <indexes />
+          </item>
+          <item id="2d1f7d65ba8140cc9c5c586d110ee26e" cid="REL043" type="erd-relationship" name="" style-class="" change-tracking-state="added" creator="" creation-date="10/08/2022 11:15:56" from="ae2084b124704d2b8e14d43a843c275e" to="48220c54c3b34c4bb2fd45f497e11e4e">
+            <erd-relation type="Identifying" multiplicity-from="1" multiplicity-to="0..*">
+              <attribute-pairs>
+                <attribute-pair from-attribute="a479cbf56c13d483d95982be0964146f8754" to-attribute="a33e72db8713c4bb6844fde1030d076ea752" />
+              </attribute-pairs>
+            </erd-relation>
+          </item>
+          <item id="ae2084b124704d2b8e14d43a843c275e" cid="ENT007" type="erd-entity" name="Сотрудник" style-class="" change-tracking-state="added" creator="" creation-date="10/07/2022 19:05:07">
+            <entity description="" />
+            <attributes>
+              <attribute uid="a479cbf56c13d483d95982be0964146f8754" cid="EA029" name="id" type="UUID" type-id="UUID" type-size="" foreign-key="false" primary-key="true" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:06:12" />
+              <attribute uid="a349a544847cc43cb893398c751b5091f923" cid="EA024" name="Имя" type="String" type-id="Uml.String" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:05:25" />
+              <attribute uid="a2de0248a6f2d4dc2b55598a1e4abc512119" cid="EA025" name="Фамилия" type="String" type-id="Uml.String" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:05:26" />
+              <attribute uid="a2f870915076747f0990e938f5e205799335" cid="EA026" name="Отчество" type="String" type-id="Uml.String" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:05:26" />
+              <attribute uid="a1e0bade303574b6ea7a320c8b6cb2a31943" cid="EA070" name="Имя_в_системе" type="String" type-id="Uml.String" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/08/2022 11:40:14" />
+              <attribute uid="a23da79ca83184e5d92f2199c30f40b2a490" cid="EA028" name="Должность" type="Integer" type-id="Uml.Integer" type-size="" foreign-key="true" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/07/2022 19:06:06" />
+              <attribute uid="a815523fd10e8466ea16ce861447c44f8467" cid="EA060" name="Пароль" type="String" type-id="Uml.String" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/08/2022 10:05:46" />
+              <attribute uid="ad068d6ad05c24803a64fefcdf0220e90451" cid="EA061" name="Дата_последней_авторизации" type="DateTime" type-id="Uml.DateTime" type-size="" foreign-key="false" primary-key="false" nullable="true" description="" default-value="" auto-increment="false" creation-date="10/08/2022 10:05:57" />
+            </attributes>
+            <indexes />
+          </item>
+          <item id="f39d0753041e49cfb32047bbcaf76ef4" cid="REL031" type="erd-relationship" name="" style-class="" change-tracking-state="added" creator="" creation-date="10/07/2022 23:53:19" from="48220c54c3b34c4bb2fd45f497e11e4e" to="ae2084b124704d2b8e14d43a843c275e">
+            <erd-relation type="Identifying" multiplicity-from="1" multiplicity-to="1">
+              <attribute-pairs>
+                <attribute-pair from-attribute="a33e72db8713c4bb6844fde1030d076ea752" to-attribute="a479cbf56c13d483d95982be0964146f8754" />
+              </attribute-pairs>
+            </erd-relation>
+          </item>
+          <item id="1c354d60ba314b01b37d413051eeb015" cid="ENT013" type="erd-entity" name="Жанр" style-class="" change-tracking-state="added" creator="" creation-date="10/08/2022 11:17:53">
+            <entity description="" />
+            <attributes>
+              <attribute uid="a38a1b7bd681740109c7d02d20a20b857488" cid="EA062" name="id" type="Integer" type-id="Uml.Integer" type-size="" foreign-key="false" primary-key="true" nullable="false" description="" default-value="" auto-increment="true" creation-date="10/08/2022 11:17:58" />
+              <attribute uid="ad44118e408f84f1ca6fab9daf8c7f0e3687" cid="EA063" name="Жанр" type="String" type-id="Uml.String" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" auto-increment="false" creation-date="10/08/2022 11:18:05" />
+            </attributes>
+            <indexes />
+          </item>
+        </abstract-items>
+        <layer id="6e62c69151c442528cbfbae982949e52" name="Default" visible="true" enabled="true" locked="false">
+          <item id="94870b1e21bf4ea6ab19e49e5795ce50" iid="45170ce636c64faaa122dc4216d69863" creation-date="10/07/2022 18:42:42" order-index="8" type="entity">
+            <layout ax="-99" ay="-193.1875" awidth="333" aheight="132" x="-99" y="-193.1875" width="333" height="132" rotation-center="17.5,34.3125" />
+            <erd-entity show-nullability="true" />
+          </item>
+          <item id="454ff6ef0ea44fafafe759f1e57f256c" iid="fb432947e8484625b2079fbffa9c94f7" creation-date="10/07/2022 18:49:27" order-index="9" type="entity">
+            <layout ax="381" ay="-193.1875" awidth="238" aheight="132" x="381" y="-193.1875" width="238" height="132" rotation-center="-23,13.6875" />
+            <erd-entity show-nullability="true" />
+          </item>
+          <item id="9bfd8f3f04b14e6d98fcbb0e5df32883" iid="83c051fac43e4286ab4faf6c1ebedc18" creation-date="10/07/2022 18:56:51" order-index="11" type="entity">
+            <layout ax="384.25" ay="-333.5313" awidth="234.75" aheight="102" x="384.25" y="-333.5313" width="234.75" height="102" rotation-center="-47.375,21.25" />
+            <erd-entity show-nullability="true" />
+          </item>
+          <item id="ae2084b124704d2b8e14d43a843c275e" iid="371ca8e1537b460aa6f63673d408f7e7" creation-date="10/07/2022 19:05:07" order-index="15" type="entity">
+            <layout ax="-95.75" ay="-23.5" awidth="333" aheight="199" x="-95.75" y="-23.5" width="333" height="160" rotation-center="-25,0" />
+            <erd-entity show-nullability="true" />
+          </item>
+          <item id="333abe14498647d1aa40d366ddec7de9" iid="bef4e8b0dddd4ce4aeae076509b648b8" creation-date="10/07/2022 19:06:49" order-index="16" type="entity">
+            <layout ax="384.25" ay="73.75" awidth="234.75" aheight="102" x="384.25" y="73.75" width="234.75" height="102" rotation-center="-36.375,93.0625" />
+            <erd-entity show-nullability="true" />
+          </item>
+          <item id="657400af4f464468abccc422382ca9d5" iid="243878d635d3439ba49a7dfb3276411e" creation-date="10/07/2022 19:09:11" order-index="18" type="entity">
+            <layout ax="-91" ay="202.5" awidth="336" aheight="161" x="-91" y="202.5" width="336" height="161" rotation-center="23.5,9.5" />
+            <erd-entity show-nullability="true" />
+          </item>
+          <item id="bdb79f2c52c247ba80b89877dd63d1d4" iid="18b5f5de82ec491a81ab7c36a761ca40" creation-date="10/07/2022 19:12:55" order-index="19" type="relation">
+            <layout start-role-position="25,15" end-role-position="25.00001,-15" line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="-96" y1="16" x2="-91" y2="280" start-border-pos="0.950062811374664" end-border-pos="0.879658386111259" start-local-pos="39.75" end-local-pos="77.5" name-position="0,20">
+              <points>
+                <point x="-96" y="16" />
+                <point x="-156" y="15.99998" />
+                <point x="-157" y="280" />
+                <point x="-91" y="280" />
+              </points>
+            </layout>
+            <relation from="ae2084b124704d2b8e14d43a843c275e" from-iid="371ca8e1537b460aa6f63673d408f7e7" from-field="a479cbf56c13d483d95982be0964146f8754" to="657400af4f464468abccc422382ca9d5" to-iid="243878d635d3439ba49a7dfb3276411e" to-field="ad38319e8ba0d48b08e4e9a7085aec27f637" />
+          </item>
+          <item id="05697b6f528840b987744ac4abc30942" iid="b19fce64bf53412b807ce459716635de" creation-date="10/07/2022 19:14:17" order-index="20" type="entity">
+            <layout ax="391" ay="202.75" awidth="238" aheight="161" x="391" y="202.75" width="238" height="161" rotation-center="-51.5,-0.25" />
+            <erd-entity show-nullability="true" />
+          </item>
+          <item id="5e9f4d7167ef42b0baea44e9984f184a" iid="fe81b21d09014007802d94fdb96a5ef7" creation-date="10/07/2022 19:15:24" order-index="21" type="relation">
+            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="245" y1="241" x2="391" y2="301" start-border-pos="0.309782609343529" end-border-pos="0.847437888383865" start-local-pos="38.5" end-local-pos="98.25" name-position="0,20">
+              <points>
+                <point x="245" y="241" />
+                <point x="286" y="241" />
+                <point x="286" y="301" />
+                <point x="391" y="301" />
+              </points>
+            </layout>
+            <relation from="657400af4f464468abccc422382ca9d5" from-iid="243878d635d3439ba49a7dfb3276411e" from-field="aa5a447e16e874f9da11e436de5374d26703" to="05697b6f528840b987744ac4abc30942" to-iid="b19fce64bf53412b807ce459716635de" to-field="a04a4c099b8a045d587a94617e20a9f0b54" />
+          </item>
+          <item id="8ed6264f13df4504b4f6969cd9ea7550" iid="f813ecc063da4b528b4950574fdf145a" creation-date="10/07/2022 19:18:54" order-index="24" type="entity">
+            <layout ax="766" ay="145.75" awidth="319" aheight="217.75" x="766" y="145.75" width="319" height="217.75" rotation-center="-65,-27.625" />
+            <erd-entity show-nullability="true" />
+          </item>
+          <item id="48220c54c3b34c4bb2fd45f497e11e4e" iid="31a501084c014ea6b6e50198434d403c" creation-date="10/07/2022 23:46:16" order-index="28" type="entity">
+            <layout ax="766" ay="-103.1875" awidth="319" aheight="132" x="766" y="-103.1875" width="319" height="132" rotation-center="8,24" />
+            <erd-entity show-nullability="true" />
+          </item>
+          <item id="fe412f9fe38c4da6bd1fb2276d01aa56" iid="ecba851fc8e8497dae562c31940cbded" creation-date="10/07/2022 23:57:01" order-index="31" type="relation">
+            <layout start-role-position="25.00001,15.00001" end-role-position="25,-14.99999" line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="1085" y1="-64" x2="1085" y2="205" start-border-pos="0.32421875" end-border-pos="0.318025261163712" start-local-pos="39.1875" end-local-pos="59.25" name-position="0,20">
+              <points>
+                <point x="1085" y="-64" />
+                <point x="1153" y="-64" />
+                <point x="1151" y="205" />
+                <point x="1085" y="205" />
+              </points>
+            </layout>
+            <relation from="48220c54c3b34c4bb2fd45f497e11e4e" from-iid="31a501084c014ea6b6e50198434d403c" from-field="ab29115bf2fd24b21bc08f835d905a941763" to="8ed6264f13df4504b4f6969cd9ea7550" to-iid="f813ecc063da4b528b4950574fdf145a" to-field="af1e5c3a2d5d44824bbe4468e603ee53081" />
+          </item>
+          <item id="36b3c88af2a644e189fe4bf3fbede2b5" iid="08fde3de6b5a40caa68173bc7d6e9e81" creation-date="10/07/2022 19:23:57" order-index="25" type="relation">
+            <layout start-role-position="25,15" end-role-position="15.43181,-22.51327" line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="766" y1="186" x2="629" y2="262" start-border-pos="0.953788742423058" end-border-pos="0.342003107070923" start-local-pos="40.25" end-local-pos="59.25" name-position="0,20">
+              <points>
+                <point x="766" y="186" />
+                <point x="727" y="186" />
+                <point x="727" y="262" />
+                <point x="629" y="262" />
+              </points>
+            </layout>
+            <relation from="8ed6264f13df4504b4f6969cd9ea7550" from-iid="f813ecc063da4b528b4950574fdf145a" from-field="ac91c0f1692794792a4b664a9ca377e6d377" to="05697b6f528840b987744ac4abc30942" to-iid="b19fce64bf53412b807ce459716635de" to-field="af45b041d4d0b4d1b910e4272a93074db467" />
+          </item>
+          <item id="2d1f7d65ba8140cc9c5c586d110ee26e" iid="906d542ae1e44fdd9a7322d23d688b13" creation-date="10/08/2022 11:15:56" order-index="32" type="relation">
+            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" start-auto-side="false" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="237" y1="13" x2="766" y2="13" start-border-pos="0.296168342232704" end-border-pos="0.779947916045785" start-local-pos="36.75" end-local-pos="116.1875" name-position="0,20">
+              <points>
+                <point x="237" y="13" />
+                <point x="307" y="13" />
+                <point x="307" y="-46" />
+                <point x="639" y="-47" />
+                <point x="660" y="-47" />
+                <point x="660" y="13" />
+                <point x="766" y="13" />
+              </points>
+            </layout>
+            <relation from="ae2084b124704d2b8e14d43a843c275e" from-iid="371ca8e1537b460aa6f63673d408f7e7" from-field="a479cbf56c13d483d95982be0964146f8754" to="48220c54c3b34c4bb2fd45f497e11e4e" to-iid="31a501084c014ea6b6e50198434d403c" to-field="a33e72db8713c4bb6844fde1030d076ea752" />
+          </item>
+          <item id="1e3dd29954de403e81cf7f9858f128c7" iid="018a920a34e1403eaf2fc904ed51637e" creation-date="10/08/2022 11:16:51" order-index="33" type="relation">
+            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="384" y1="113" x2="237" y2="112" start-border-pos="0.903799012303352" end-border-pos="0.420226126909256" start-local-pos="39.25" end-local-pos="135.5" name-position="0,20" name-width="54">
+              <points>
+                <point x="384" y="113" />
+                <point x="237" y="112" />
+              </points>
+            </layout>
+            <relation from="333abe14498647d1aa40d366ddec7de9" from-iid="bef4e8b0dddd4ce4aeae076509b648b8" from-field="aa6315ba580f842c193be8e77ae1de5b7773" to="ae2084b124704d2b8e14d43a843c275e" to-iid="371ca8e1537b460aa6f63673d408f7e7" to-field="a23da79ca83184e5d92f2199c30f40b2a490" />
+          </item>
+          <item id="be0a8b0f1c9549fa83533a5e287e5479" iid="5bf3bddb74e64a169c3a02a7022ff6f6" creation-date="10/08/2022 11:17:21" order-index="34" type="relation">
+            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" start-auto-side="false" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="384" y1="-295" x2="381" y2="-97" start-border-pos="0.905024513602257" end-border-pos="0.817826703190804" start-local-pos="38.75" end-local-pos="96.1875" name-position="0,20">
+              <points>
+                <point x="384" y="-295" />
+                <point x="301" y="-295" />
+                <point x="302" y="-97" />
+                <point x="381" y="-97" />
+              </points>
+            </layout>
+            <relation from="9bfd8f3f04b14e6d98fcbb0e5df32883" from-iid="83c051fac43e4286ab4faf6c1ebedc18" from-field="afc1c9020d1844095b96f7167db30dd3777" to="454ff6ef0ea44fafafe759f1e57f256c" to-iid="fb432947e8484625b2079fbffa9c94f7" to-field="a58682124e51d4b1f9008e735dab208c6459" />
+          </item>
+          <item id="1c354d60ba314b01b37d413051eeb015" iid="9065efa798514b7db11369ee73ff337d" creation-date="10/08/2022 11:17:53" order-index="35" type="entity">
+            <layout ax="766" ay="-214.75" awidth="316" aheight="85" x="766" y="-214.75" width="316" height="85" rotation-center="-91,16.9375" />
+            <erd-entity show-nullability="true" />
+          </item>
+          <item id="0cfe12112a4f4b9ba8c02627a058fc4c" iid="46ebcd0987b84b76b0a83744634d8b58" creation-date="10/08/2022 11:20:08" order-index="38" type="relation">
+            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" start-auto-side="false" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="-96" y1="16" x2="766" y2="319" start-border-pos="0.950062811374664" end-border-pos="0.801090698689222" start-local-pos="39.75" end-local-pos="173.25" name-position="0,29.25" name-width="54">
+              <points>
+                <point x="-96" y="16" />
+                <point x="-135" y="15.99998" />
+                <point x="-135" y="189" />
+                <point x="684" y="191" />
+                <point x="683" y="319" />
+                <point x="766" y="319" />
+              </points>
+            </layout>
+            <relation from="ae2084b124704d2b8e14d43a843c275e" from-iid="371ca8e1537b460aa6f63673d408f7e7" from-field="a479cbf56c13d483d95982be0964146f8754" to="8ed6264f13df4504b4f6969cd9ea7550" to-iid="f813ecc063da4b528b4950574fdf145a" to-field="ab5016e083f894787aada86a416c36f46560" />
+          </item>
+          <item id="43d1330a8b8c4f8da91218149aa2df8a" iid="41925ca3a11a4aa29ee47d27a6e65426" creation-date="10/08/2022 11:20:46" order-index="39" type="relation">
+            <layout start-role-position="24.99995,15" end-role-position="25,-15" line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="619" y1="-154" x2="629" y2="281" start-border-pos="0.32421875" end-border-pos="0.371506214141846" start-local-pos="39.1875" end-local-pos="78.25" name-position="0,20">
+              <points>
+                <point x="619" y="-154" />
+                <point x="703" y="-154" />
+                <point x="706" y="281" />
+                <point x="629" y="281" />
+              </points>
+            </layout>
+            <relation from="454ff6ef0ea44fafafe759f1e57f256c" from-iid="fb432947e8484625b2079fbffa9c94f7" from-field="a68d5f0853cb5429f9599ab72741a3fbe404" to="05697b6f528840b987744ac4abc30942" to-iid="b19fce64bf53412b807ce459716635de" to-field="ad4cf3ca8ad7c4ca8ae6e42a704698116878" />
+          </item>
+          <item id="726e67202b6f41479aefa947957e1b1a" iid="a6cf11d7fdec439a8e7357ee755adc2c" creation-date="10/08/2022 11:21:42" order-index="40" type="entity">
+            <layout ax="766" ay="40.1875" awidth="319" aheight="85" x="766" y="40.1875" width="319" height="84" rotation-center="-8.5,38.5" />
+            <erd-entity show-nullability="true" />
+          </item>
+          <item id="b4f73567fd524c798a6a4b41626a8619" iid="d0359ee9c0c247528fafdb87180d1690" creation-date="10/08/2022 11:22:47" order-index="41" type="relation">
+            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" start-auto-side="false" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="1085" y1="80" x2="1085" y2="299" start-border-pos="0.367095589637756" end-border-pos="0.425947189331055" start-local-pos="39.8125" end-local-pos="153.25" name-position="0,20">
+              <points>
+                <point x="1085" y="80" />
+                <point x="1137" y="79.99998" />
+                <point x="1138" y="299" />
+                <point x="1085" y="299" />
+              </points>
+            </layout>
+            <relation from="726e67202b6f41479aefa947957e1b1a" from-iid="a6cf11d7fdec439a8e7357ee755adc2c" from-field="a1e2330441d414a4ea8a57548bf1a917f913" to="8ed6264f13df4504b4f6969cd9ea7550" to-iid="f813ecc063da4b528b4950574fdf145a" to-field="ab4993200231b42d69856c3123212430618" />
+          </item>
+          <item id="669f8ad255c6482bb90dec617a5c655d" iid="630b4aa55323474db4cefec37c6677d1" creation-date="10/08/2022 11:25:17" order-index="42" type="entity">
+            <layout ax="382.625" ay="-25.75" awidth="238" aheight="85" x="382.625" y="-25.75" width="238" height="84" rotation-center="-49,38.5" />
+            <erd-entity show-nullability="true" />
+          </item>
+          <item id="aa6479e0b319404498518687cdaef97b" iid="7bb1176b86a9469eb470d9c9c459606c" creation-date="10/08/2022 11:26:26" order-index="43" type="relation">
+            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" start-auto-side="false" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="383" y1="16" x2="391" y2="329" start-border-pos="0.876470595598221" end-border-pos="0.803959626704454" start-local-pos="116.25" end-local-pos="126.25" name-position="0,20">
+              <points>
+                <point x="383" y="16" />
+                <point x="325" y="15.99998" />
+                <point x="323" y="329" />
+                <point x="391" y="329" />
+              </points>
+            </layout>
+            <relation from="669f8ad255c6482bb90dec617a5c655d" from-iid="630b4aa55323474db4cefec37c6677d1" from-field="ae908576486524fe4bf25625ddb676f7b433" to="05697b6f528840b987744ac4abc30942" to-iid="b19fce64bf53412b807ce459716635de" to-field="aa4e1882f9fdf45c29d02e7c24c98baf4860" />
+          </item>
+          <item id="f20f70a977c3412cab0ddbaa33a261c9" iid="fc5e789078734c31ae49d58853212b67" creation-date="10/08/2022 11:31:13" order-index="44" type="entity">
+            <layout ax="-95.75" ay="-335.3125" awidth="333" aheight="105.5625" x="-95.75" y="-335.3125" width="333" height="105.5625" rotation-center="-96.5,17.71875" />
+            <erd-entity show-nullability="true" />
+          </item>
+          <item id="fde1349383e14a3c865c59e26fa2ac2c" iid="f246ed952c55475a862bcf7ff35e012f" creation-date="10/08/2022 11:32:22" order-index="46" type="relation">
+            <layout start-role-position="25.00001,14.99998" end-role-position="25.00001,-14.99998" line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="381" y1="-155" x2="237" y2="-276" start-border-pos="0.927675187587738" end-border-pos="0.39046773314476" start-local-pos="38.1875" end-local-pos="59.3125" name-position="0,20">
+              <points>
+                <point x="381" y="-155" />
+                <point x="339" y="-155" />
+                <point x="340" y="-275" />
+                <point x="237" y="-276" />
+              </points>
+            </layout>
+            <relation from="454ff6ef0ea44fafafe759f1e57f256c" from-iid="fb432947e8484625b2079fbffa9c94f7" from-field="a68d5f0853cb5429f9599ab72741a3fbe404" to="f20f70a977c3412cab0ddbaa33a261c9" to-iid="fc5e789078734c31ae49d58853212b67" to-field="af05c820792ed41e4a7c2f7e632f08a9f764" />
+          </item>
+          <item id="dbe3b46c77e54949bd7aa69ff7688502" iid="3aa2b15ba79243f6ae478c355f5bdabf" creation-date="10/08/2022 11:33:09" order-index="47" type="relation">
+            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="-99" y1="-153" x2="-96" y2="-296" start-border-pos="0.923887312412262" end-border-pos="0.906897574663162" start-local-pos="40.1875" end-local-pos="39.3125" name-position="0,20">
+              <points>
+                <point x="-99" y="-153" />
+                <point x="-153" y="-153" />
+                <point x="-154" y="-296" />
+                <point x="-96" y="-296" />
+              </points>
+            </layout>
+            <relation from="94870b1e21bf4ea6ab19e49e5795ce50" from-iid="45170ce636c64faaa122dc4216d69863" from-field="ab52fc7f3492041df841ff3381da1314d436" to="f20f70a977c3412cab0ddbaa33a261c9" to-iid="fc5e789078734c31ae49d58853212b67" to-field="a085d5560001e4ed899dc4e80b647ce53730" />
+          </item>
+          <item id="3e63906c2c76421885a011e5630ed384" iid="31e9970c7c8c4955bdbb40cf5373a33e" creation-date="11/16/2022 14:58:07" order-index="48" type="entity">
+            <layout ax="765.5" ay="-335.3125" awidth="317" aheight="85" x="765.5" y="-335.3125" width="317" height="85" rotation-center="-7.5,-37.5" />
+            <erd-entity show-nullability="true" />
+          </item>
+          <item id="bfdb8c467a6c4c4c972b609493b4e6e5" iid="1c51887ab7f24854bda2fbc4dd35564a" creation-date="11/16/2022 15:03:56" order-index="49" type="relation">
+            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" start-auto-side="false" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="619" y1="-153" x2="766" y2="-295" start-border-pos="0.326112687587738" end-border-pos="0.881433829665184" start-local-pos="40.1875" end-local-pos="40.3125" name-position="0,20">
+              <points>
+                <point x="619" y="-153" />
+                <point x="683" y="-153" />
+                <point x="684" y="-295" />
+                <point x="766" y="-295" />
+              </points>
+            </layout>
+            <relation from="454ff6ef0ea44fafafe759f1e57f256c" from-iid="fb432947e8484625b2079fbffa9c94f7" from-field="a68d5f0853cb5429f9599ab72741a3fbe404" to="3e63906c2c76421885a011e5630ed384" to-iid="31e9970c7c8c4955bdbb40cf5373a33e" to-field="a3d72b5aa26834abcbcf25a120e0aac7e513" />
+          </item>
+          <item id="19c9a752818d43a8acd3d649d23c1615" iid="c8f65d5a350f477a9339762960552598" creation-date="11/16/2022 15:05:19" order-index="50" type="relation">
+            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" start-auto-side="false" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="1082" y1="-174" x2="1082" y2="-275" start-border-pos="0.369852937757969" end-border-pos="0.427389705882353" start-local-pos="40.75" end-local-pos="60.3125" name-position="0,20">
+              <points>
+                <point x="1082" y="-174" />
+                <point x="1143" y="-174" />
+                <point x="1143" y="-275" />
+                <point x="1082" y="-275" />
+              </points>
+            </layout>
+            <relation from="1c354d60ba314b01b37d413051eeb015" from-iid="9065efa798514b7db11369ee73ff337d" from-field="a38a1b7bd681740109c7d02d20a20b857488" to="3e63906c2c76421885a011e5630ed384" to-iid="31e9970c7c8c4955bdbb40cf5373a33e" to-field="ad35167dec5ec4773b5838b3ff841f10022" />
+          </item>
+        </layer>
+      </diagram>
+    </model>
+  </models>
+</sim-project>

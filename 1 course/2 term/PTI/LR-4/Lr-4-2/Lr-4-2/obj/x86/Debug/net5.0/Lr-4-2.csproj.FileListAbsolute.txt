@@ -1,0 +1,16 @@
+C:\Users\ralia\Рабочий стол\Lr-4-2\Lr-4-2\bin\x86\Debug\net5.0\Lr-4-2.exe
+C:\Users\ralia\Рабочий стол\Lr-4-2\Lr-4-2\bin\x86\Debug\net5.0\Lr-4-2.deps.json
+C:\Users\ralia\Рабочий стол\Lr-4-2\Lr-4-2\bin\x86\Debug\net5.0\Lr-4-2.runtimeconfig.json
+C:\Users\ralia\Рабочий стол\Lr-4-2\Lr-4-2\bin\x86\Debug\net5.0\Lr-4-2.runtimeconfig.dev.json
+C:\Users\ralia\Рабочий стол\Lr-4-2\Lr-4-2\bin\x86\Debug\net5.0\Lr-4-2.dll
+C:\Users\ralia\Рабочий стол\Lr-4-2\Lr-4-2\bin\x86\Debug\net5.0\ref\Lr-4-2.dll
+C:\Users\ralia\Рабочий стол\Lr-4-2\Lr-4-2\bin\x86\Debug\net5.0\Lr-4-2.pdb
+C:\Users\ralia\Рабочий стол\Lr-4-2\Lr-4-2\obj\x86\Debug\net5.0\Lr-4-2.csprojAssemblyReference.cache
+C:\Users\ralia\Рабочий стол\Lr-4-2\Lr-4-2\obj\x86\Debug\net5.0\Lr-4-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralia\Рабочий стол\Lr-4-2\Lr-4-2\obj\x86\Debug\net5.0\Lr-4-2.AssemblyInfoInputs.cache
+C:\Users\ralia\Рабочий стол\Lr-4-2\Lr-4-2\obj\x86\Debug\net5.0\Lr-4-2.AssemblyInfo.cs
+C:\Users\ralia\Рабочий стол\Lr-4-2\Lr-4-2\obj\x86\Debug\net5.0\Lr-4-2.csproj.CoreCompileInputs.cache
+C:\Users\ralia\Рабочий стол\Lr-4-2\Lr-4-2\obj\x86\Debug\net5.0\Lr-4-2.dll
+C:\Users\ralia\Рабочий стол\Lr-4-2\Lr-4-2\obj\x86\Debug\net5.0\ref\Lr-4-2.dll
+C:\Users\ralia\Рабочий стол\Lr-4-2\Lr-4-2\obj\x86\Debug\net5.0\Lr-4-2.pdb
+C:\Users\ralia\Рабочий стол\Lr-4-2\Lr-4-2\obj\x86\Debug\net5.0\Lr-4-2.genruntimeconfig.cache

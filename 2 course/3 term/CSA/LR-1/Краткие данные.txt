@@ -1,0 +1,8 @@
+
+if(pow(a,4) > b)
+	if(c*b == d/b)
+		result = a|b   //(a=2, b=1, c=3, d=3)   (подтверждено - 3)
+	else
+		result = max(a,b,c)/(pow(a,2)-b)   //(a=2, b=1, c=3, d=2)  (подтверждено - 1)
+else
+	result = pow(c,3) + b   //(a=1, b=2, c=3, d=3) (подтверждено - 29)

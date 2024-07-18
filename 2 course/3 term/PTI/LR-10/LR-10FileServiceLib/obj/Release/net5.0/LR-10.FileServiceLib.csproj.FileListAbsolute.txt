@@ -1,0 +1,12 @@
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-10\LR-10.FileServiceLib\bin\Release\net5.0\LR-10.FileServiceLib.deps.json
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-10\LR-10.FileServiceLib\bin\Release\net5.0\LR-10.FileServiceLib.dll
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-10\LR-10.FileServiceLib\bin\Release\net5.0\ref\LR-10.FileServiceLib.dll
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-10\LR-10.FileServiceLib\bin\Release\net5.0\LR-10.FileServiceLib.pdb
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-10\LR-10.FileServiceLib\obj\Release\net5.0\LR-10.FileServiceLib.csprojAssemblyReference.cache
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-10\LR-10.FileServiceLib\obj\Release\net5.0\LR-10.FileServiceLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-10\LR-10.FileServiceLib\obj\Release\net5.0\LR-10.FileServiceLib.AssemblyInfoInputs.cache
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-10\LR-10.FileServiceLib\obj\Release\net5.0\LR-10.FileServiceLib.AssemblyInfo.cs
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-10\LR-10.FileServiceLib\obj\Release\net5.0\LR-10.FileServiceLib.csproj.CoreCompileInputs.cache
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-10\LR-10.FileServiceLib\obj\Release\net5.0\LR-10.FileServiceLib.dll
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-10\LR-10.FileServiceLib\obj\Release\net5.0\ref\LR-10.FileServiceLib.dll
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-10\LR-10.FileServiceLib\obj\Release\net5.0\LR-10.FileServiceLib.pdb

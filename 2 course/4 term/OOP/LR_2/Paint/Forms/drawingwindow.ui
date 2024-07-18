@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>DrawingWindow</class>
+ <widget class="QMainWindow" name="DrawingWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1150</width>
+    <height>620</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>1150</width>
+    <height>620</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>1150</width>
+    <height>620</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>PicMan</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="../Resources/Logo.qrc">
+    <normaloff>:/newLogo/Logo/Logo-1.png</normaloff>:/newLogo/Logo/Logo-1.png</iconset>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QGraphicsView" name="graphicsView">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>1024</width>
+      <height>576</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>1024</width>
+      <height>576</height>
+     </size>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>1024</width>
+      <height>576</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="BrushButton">
+    <property name="geometry">
+     <rect>
+      <x>1100</x>
+      <y>10</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/brush.svg</normaloff>:/new/Icons/Icons/brush.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="EraserButton">
+    <property name="geometry">
+     <rect>
+      <x>1050</x>
+      <y>50</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/eraser-fill.svg</normaloff>:/new/Icons/Icons/eraser-fill.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="ColorButton">
+    <property name="geometry">
+     <rect>
+      <x>1100</x>
+      <y>110</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:  black;
+border-radius: 1px;</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="UndoButton">
+    <property name="geometry">
+     <rect>
+      <x>1050</x>
+      <y>510</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/arrow-left.svg</normaloff>:/new/Icons/Icons/arrow-left.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="RedoButton">
+    <property name="geometry">
+     <rect>
+      <x>1100</x>
+      <y>510</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/arrow-right.svg</normaloff>:/new/Icons/Icons/arrow-right.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="RectangleButton">
+    <property name="geometry">
+     <rect>
+      <x>1050</x>
+      <y>210</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/square.svg</normaloff>:/new/Icons/Icons/square.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="FillButton">
+    <property name="geometry">
+     <rect>
+      <x>1100</x>
+      <y>50</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/paint-bucket.svg</normaloff>:/new/Icons/Icons/paint-bucket.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CircleButton">
+    <property name="geometry">
+     <rect>
+      <x>1050</x>
+      <y>250</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/circle.svg</normaloff>:/new/Icons/Icons/circle.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="HexagonButton">
+    <property name="geometry">
+     <rect>
+      <x>1100</x>
+      <y>210</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/hexagon.svg</normaloff>:/new/Icons/Icons/hexagon.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="LineButton">
+    <property name="geometry">
+     <rect>
+      <x>1050</x>
+      <y>170</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/slash-lg.svg</normaloff>:/new/Icons/Icons/slash-lg.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CurveButton">
+    <property name="geometry">
+     <rect>
+      <x>1100</x>
+      <y>170</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/chevron-up.svg</normaloff>:/new/Icons/Icons/chevron-up.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CustomButton">
+    <property name="geometry">
+     <rect>
+      <x>1100</x>
+      <y>250</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/collection.svg</normaloff>:/new/Icons/Icons/collection.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="SaveButton">
+    <property name="geometry">
+     <rect>
+      <x>1050</x>
+      <y>550</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/download.svg</normaloff>:/new/Icons/Icons/download.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="ThicknessButton">
+    <property name="geometry">
+     <rect>
+      <x>1050</x>
+      <y>110</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/border-width.svg</normaloff>:/new/Icons/Icons/border-width.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="RotateRightButton">
+    <property name="geometry">
+     <rect>
+      <x>1050</x>
+      <y>350</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/rotateRight.svg</normaloff>:/new/Icons/Icons/rotateRight.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="RotateLeftButton">
+    <property name="geometry">
+     <rect>
+      <x>1100</x>
+      <y>350</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/rotateLeft.svg</normaloff>:/new/Icons/Icons/rotateLeft.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="UploadButton">
+    <property name="geometry">
+     <rect>
+      <x>1100</x>
+      <y>550</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/upload.svg</normaloff>:/new/Icons/Icons/upload.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QSlider" name="RotateSlider">
+    <property name="geometry">
+     <rect>
+      <x>1050</x>
+      <y>390</y>
+      <width>81</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="orientation">
+     <enum>Qt::Horizontal</enum>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="moveButton">
+    <property name="geometry">
+     <rect>
+      <x>1050</x>
+      <y>10</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/arrows-move.svg</normaloff>:/new/Icons/Icons/arrows-move.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="zoomButton">
+    <property name="geometry">
+     <rect>
+      <x>1050</x>
+      <y>310</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/plus-lg.svg</normaloff>:/new/Icons/Icons/plus-lg.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="unzoomButton">
+    <property name="geometry">
+     <rect>
+      <x>1100</x>
+      <y>310</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/dash-lg.svg</normaloff>:/new/Icons/Icons/dash-lg.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="copyButton">
+    <property name="geometry">
+     <rect>
+      <x>1050</x>
+      <y>470</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/clipboard.svg</normaloff>:/new/Icons/Icons/clipboard.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="delButton">
+    <property name="geometry">
+     <rect>
+      <x>1100</x>
+      <y>470</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/x-lg.svg</normaloff>:/new/Icons/Icons/x-lg.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="serializeButton">
+    <property name="geometry">
+     <rect>
+      <x>1050</x>
+      <y>430</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/box.svg</normaloff>:/new/Icons/Icons/box.svg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="deserializeButton">
+    <property name="geometry">
+     <rect>
+      <x>1100</x>
+      <y>430</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="../Resources/Icons.qrc">
+      <normaloff>:/new/Icons/Icons/box-seam.svg</normaloff>:/new/Icons/Icons/box-seam.svg</iconset>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1150</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources>
+  <include location="../Resources/Icons.qrc"/>
+  <include location="../Resources/Logo.qrc"/>
+ </resources>
+ <connections/>
+</ui>

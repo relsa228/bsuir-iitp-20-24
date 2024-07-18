@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LR-9", "LR-9\LR-9.csproj", "{A6BAE19A-0F50-490E-BE9B-CCD0264F3AB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LR-9.Domain", "LR-9.Domain\LR-9.Domain.csproj", "{3646BDFC-B272-4E44-827A-DF11FB858E10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serializer", "Serializer\Serializer.csproj", "{AA3EB933-7C7B-42A1-A4BC-9B943D9FBF33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6BAE19A-0F50-490E-BE9B-CCD0264F3AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BAE19A-0F50-490E-BE9B-CCD0264F3AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BAE19A-0F50-490E-BE9B-CCD0264F3AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BAE19A-0F50-490E-BE9B-CCD0264F3AB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3646BDFC-B272-4E44-827A-DF11FB858E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3646BDFC-B272-4E44-827A-DF11FB858E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3646BDFC-B272-4E44-827A-DF11FB858E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3646BDFC-B272-4E44-827A-DF11FB858E10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3EB933-7C7B-42A1-A4BC-9B943D9FBF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3EB933-7C7B-42A1-A4BC-9B943D9FBF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3EB933-7C7B-42A1-A4BC-9B943D9FBF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3EB933-7C7B-42A1-A4BC-9B943D9FBF33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,130 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Programs\Modelsim\Modelsim\examples
+T_opt
+VIC[AUfFFUj9UY1elVb_SX1
+04 9 4 work testbench fast 0
+Z1 =1-b05cda8d5d30-62a088e0-13-2868
+Z2 o-quiet -auto_acc_if_foreign -work work
+Z3 n@_opt
+Z4 OE;O;6.5b;42
+valudec
+Z5 Mx1 6 sv_std 3 std
+Z6 DXx6 sv_std 3 std 0 22 WnQ=;W1X^o9K1PIQTgInR3
+Z7 Mx2 4 work 16 lab04_02_sv_unit
+Z8 DXx4 work 16 lab04_02_sv_unit 0 22 Cb6JDHT]fG:eWzHSZY?4I0
+Z9 VAVe>_[cd@3dF@>]8TfJU00
+r1
+31
+Z10 Ij;elI;W9>;oRbD?j9hlm@1
+S1
+Z11 dC:\Users\ralia\Desktop\git\csa-2022\lab04\Modelsim\lab04_02
+Z12 w1654687954
+Z13 8C:/Users/ralia/Desktop/git/csa-2022/lab04/src/lab04_02/lab04_02.sv
+Z14 FC:/Users/ralia/Desktop/git/csa-2022/lab04/src/lab04_02/lab04_02.sv
+Z15 L0 110
+Z16 OE;L;6.5b;42
+Z17 !s102 -nocovercells
+Z18 o-work work -sv -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+!s85 0
+Z19 !s100 BFl7z?]8`JMzaz:PkDXkC3
+vinstrdec
+R5
+R6
+R7
+R8
+Z20 V<8?XRmS?DO^``C7@M975S2
+r1
+31
+Z21 IZhaDj@zOM?;adeU`kkZVk2
+S1
+R11
+R12
+R13
+R14
+Z22 L0 137
+R16
+R17
+R18
+!s85 0
+Z23 !s100 M7Z8Sf]h=NlQCEYh`n4Q:2
+vlab04_02
+R5
+R6
+R7
+R8
+Z24 VRa8FIT<@VIMcNcCameOSn0
+r1
+31
+Z25 I_V8X38KobTRVa[DENbGKT3
+S1
+R11
+R12
+R13
+R14
+L0 3
+R16
+R17
+R18
+!s85 0
+Z26 !s100 lJ08MkTBcB[<`<gW82iW;2
+Xlab04_02_sv_unit
+R5
+R6
+Z27 VCb6JDHT]fG:eWzHSZY?4I0
+r1
+31
+Z28 ICb6JDHT]fG:eWzHSZY?4I0
+S1
+R11
+R12
+R13
+R14
+L0 1
+R16
+R17
+R18
+!s85 0
+Z29 !s100 eNFljeCG0Ek=H2hIjCB2L3
+vmain_state_machine
+R5
+R6
+R7
+R8
+Z30 VUQjo4FFmJZc^MY>T@noWb3
+r1
+31
+Z31 Io<P2kfoUD>cg7?L?FPLjh0
+S1
+R11
+R12
+R13
+R14
+L0 33
+R16
+R17
+R18
+!s85 0
+Z32 !s100 e6d`5UN=^FRNB@L;h_Lz42
+vtestbench
+R5
+R6
+R7
+R8
+Z33 VhGfW:390DM[oDMzegDH9`2
+r1
+31
+Z34 IfFo1L=?Xg29Q]`STn1CK21
+S1
+R11
+R12
+R13
+R14
+Z35 L0 154
+R16
+R17
+R18
+!s85 0
+Z36 !s100 [e[Y[N2;GMF=D<V:LflT60

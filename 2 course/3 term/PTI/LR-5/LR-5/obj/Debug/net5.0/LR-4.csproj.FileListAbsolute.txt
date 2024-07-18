@@ -1,0 +1,32 @@
+C:\Program Files\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\bin\Debug\net5.0\LR-4.exe
+C:\Program Files\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\bin\Debug\net5.0\LR-4.deps.json
+C:\Program Files\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\bin\Debug\net5.0\LR-4.runtimeconfig.json
+C:\Program Files\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\bin\Debug\net5.0\LR-4.runtimeconfig.dev.json
+C:\Program Files\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\bin\Debug\net5.0\LR-4.dll
+C:\Program Files\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\bin\Debug\net5.0\ref\LR-4.dll
+C:\Program Files\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\bin\Debug\net5.0\LR-4.pdb
+C:\Program Files\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\obj\Debug\net5.0\LR-4.csprojAssemblyReference.cache
+C:\Program Files\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\obj\Debug\net5.0\LR-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\obj\Debug\net5.0\LR-4.AssemblyInfoInputs.cache
+C:\Program Files\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\obj\Debug\net5.0\LR-4.AssemblyInfo.cs
+C:\Program Files\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\obj\Debug\net5.0\LR-4.csproj.CoreCompileInputs.cache
+C:\Program Files\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\obj\Debug\net5.0\LR-4.dll
+C:\Program Files\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\obj\Debug\net5.0\ref\LR-4.dll
+C:\Program Files\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\obj\Debug\net5.0\LR-4.pdb
+C:\Program Files\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\obj\Debug\net5.0\LR-4.genruntimeconfig.cache
+C:\Apps\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\bin\Debug\net5.0\LR-4.exe
+C:\Apps\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\bin\Debug\net5.0\LR-4.deps.json
+C:\Apps\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\bin\Debug\net5.0\LR-4.runtimeconfig.json
+C:\Apps\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\bin\Debug\net5.0\LR-4.runtimeconfig.dev.json
+C:\Apps\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\bin\Debug\net5.0\LR-4.dll
+C:\Apps\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\bin\Debug\net5.0\ref\LR-4.dll
+C:\Apps\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\bin\Debug\net5.0\LR-4.pdb
+C:\Apps\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\obj\Debug\net5.0\LR-4.csprojAssemblyReference.cache
+C:\Apps\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\obj\Debug\net5.0\LR-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\obj\Debug\net5.0\LR-4.AssemblyInfoInputs.cache
+C:\Apps\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\obj\Debug\net5.0\LR-4.AssemblyInfo.cs
+C:\Apps\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\obj\Debug\net5.0\LR-4.csproj.CoreCompileInputs.cache
+C:\Apps\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\obj\Debug\net5.0\LR-4.dll
+C:\Apps\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\obj\Debug\net5.0\ref\LR-4.dll
+C:\Apps\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\obj\Debug\net5.0\LR-4.pdb
+C:\Apps\JetBrains\JetBrains Rider\NETProjects\ISP\3 sem\LR-4\LR-4\obj\Debug\net5.0\LR-4.genruntimeconfig.cache

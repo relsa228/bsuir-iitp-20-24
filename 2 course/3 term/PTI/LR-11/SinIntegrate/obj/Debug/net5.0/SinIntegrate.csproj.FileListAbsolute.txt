@@ -1,0 +1,12 @@
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-11\SinIntegrate\bin\Debug\net5.0\SinIntegrate.deps.json
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-11\SinIntegrate\bin\Debug\net5.0\SinIntegrate.dll
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-11\SinIntegrate\bin\Debug\net5.0\ref\SinIntegrate.dll
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-11\SinIntegrate\bin\Debug\net5.0\SinIntegrate.pdb
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-11\SinIntegrate\obj\Debug\net5.0\SinIntegrate.csprojAssemblyReference.cache
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-11\SinIntegrate\obj\Debug\net5.0\SinIntegrate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-11\SinIntegrate\obj\Debug\net5.0\SinIntegrate.AssemblyInfoInputs.cache
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-11\SinIntegrate\obj\Debug\net5.0\SinIntegrate.AssemblyInfo.cs
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-11\SinIntegrate\obj\Debug\net5.0\SinIntegrate.csproj.CoreCompileInputs.cache
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-11\SinIntegrate\obj\Debug\net5.0\SinIntegrate.dll
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-11\SinIntegrate\obj\Debug\net5.0\ref\SinIntegrate.dll
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-11\SinIntegrate\obj\Debug\net5.0\SinIntegrate.pdb

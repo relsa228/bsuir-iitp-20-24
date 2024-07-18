@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>LR_11</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\SinIntegrate\SinIntegrate.csproj" />
+      <ProjectReference Include="..\WorkerLib\WorkerLib.csproj" />
+    </ItemGroup>
+
+</Project>

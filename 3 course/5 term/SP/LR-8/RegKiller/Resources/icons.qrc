@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons/main_icons">
+        <file>Icons/monitor.png</file>
+    </qresource>
+    <qresource prefix="/icons/functIcons">
+        <file>Icons/SystemIcons/eraser-fill.svg</file>
+        <file>Icons/SystemIcons/gear-fill.svg</file>
+        <file>Icons/SystemIcons/search.svg</file>
+        <file>Icons/SystemIcons/trash.svg</file>
+        <file>Icons/SystemIcons/upload.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Source.cpp
+C:\Users\ralia\Рабочий стол\Lr-4-2\Dll1\Source.cpp(8,1): warning C4273: add: несовместимое связывание dll
+C:\Users\ralia\Рабочий стол\Lr-4-2\Dll1\Header.h(9,21): message : см. предыдущее определение "add"
+C:\Users\ralia\Рабочий стол\Lr-4-2\Dll1\Source.cpp(13,1): warning C4273: minus: несовместимое связывание dll
+C:\Users\ralia\Рабочий стол\Lr-4-2\Dll1\Header.h(10,21): message : см. предыдущее определение "minus"
+C:\Users\ralia\Рабочий стол\Lr-4-2\Dll1\Source.cpp(18,1): warning C4273: divided: несовместимое связывание dll
+C:\Users\ralia\Рабочий стол\Lr-4-2\Dll1\Header.h(11,21): message : см. предыдущее определение "divided"
+C:\Users\ralia\Рабочий стол\Lr-4-2\Dll1\Source.cpp(25,1): warning C4273: multiply: несовместимое связывание dll
+C:\Users\ralia\Рабочий стол\Lr-4-2\Dll1\Header.h(12,21): message : см. предыдущее определение "multiply"
+C:\Users\ralia\Рабочий стол\Lr-4-2\Dll1\Source.cpp(30,1): warning C4273: power: несовместимое связывание dll
+C:\Users\ralia\Рабочий стол\Lr-4-2\Dll1\Header.h(13,21): message : см. предыдущее определение "power"
+C:\Users\ralia\Рабочий стол\Lr-4-2\Dll1\Source.cpp(31,15): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+     Создается библиотека C:\Users\ralia\Рабочий стол\Lr-4-2\Debug\Dll1.lib и объект C:\Users\ralia\Рабочий стол\Lr-4-2\Debug\Dll1.exp
+  Dll1.vcxproj -> C:\Users\ralia\Рабочий стол\Lr-4-2\Debug\Dll1.dll

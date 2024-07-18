@@ -1,0 +1,48 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Programs\Modelsim\Modelsim\examples
+T_opt
+Z1 V;>^jH<_^8[W1GOUPBF2=]1
+Z2 04 9 4 work testbench fast 0
+Z3 =1-b05cda8d5d30-62804a3d-cd-2498
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OE;O;6.5b;42
+vfulladder
+Z7 Mx1 36 C:\Programs\Modelsim\Modelsim\sv_std 3 std
+Z8 DXx36 C:\Programs\Modelsim\Modelsim\sv_std 3 std 0 22 WnQ=;W1X^o9K1PIQTgInR3
+Z9 Ina=l6``lanM@nZI:BfVnh0
+Z10 V[AzSOlA@mi7[J<:`b^I]X3
+S1
+Z11 dC:\Users\ralia\Desktop\git\csa-2022\lab02\Modelsim\00
+Z12 w1652568584
+Z13 8C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_00/fulladder.sv
+Z14 FC:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_00/fulladder.sv
+L0 1
+Z15 OE;L;6.5b;42
+r1
+31
+Z16 o-work work -sv -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+Z17 !s102 -nocovercells
+Z18 !s100 A`MZKDIaoHi68T4<SEh313
+!s85 0
+vtestbench
+R7
+R8
+Z19 I2ol:>LlBiVgzjQWO0mloG3
+Z20 VhGfW:390DM[oDMzegDH9`2
+S1
+R11
+Z21 w1652574604
+Z22 8C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_00/testbench.sv
+Z23 FC:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_00/testbench.sv
+L0 1
+R15
+r1
+31
+R17
+R16
+Z24 !s100 ILibE_dM2QhZ_JE>S?L]C0
+!s85 0

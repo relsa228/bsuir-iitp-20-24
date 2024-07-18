@@ -1,0 +1,15 @@
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-9\Serializer\bin\Debug\net5.0\Serializer.deps.json
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-9\Serializer\bin\Debug\net5.0\Serializer.dll
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-9\Serializer\bin\Debug\net5.0\ref\Serializer.dll
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-9\Serializer\bin\Debug\net5.0\Serializer.pdb
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-9\Serializer\bin\Debug\net5.0\LR-9.Domain.dll
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-9\Serializer\bin\Debug\net5.0\LR-9.Domain.pdb
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-9\Serializer\obj\Debug\net5.0\Serializer.csprojAssemblyReference.cache
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-9\Serializer\obj\Debug\net5.0\Serializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-9\Serializer\obj\Debug\net5.0\Serializer.AssemblyInfoInputs.cache
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-9\Serializer\obj\Debug\net5.0\Serializer.AssemblyInfo.cs
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-9\Serializer\obj\Debug\net5.0\Serializer.csproj.CoreCompileInputs.cache
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-9\Serializer\obj\Debug\net5.0\Serializer.csproj.CopyComplete
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-9\Serializer\obj\Debug\net5.0\Serializer.dll
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-9\Serializer\obj\Debug\net5.0\ref\Serializer.dll
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-9\Serializer\obj\Debug\net5.0\Serializer.pdb

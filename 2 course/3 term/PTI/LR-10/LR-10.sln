@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LR-10.Main", "LR-10.Main\LR-10.Main.csproj", "{3F0BAA33-0208-47DE-8046-49341C246B7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LR-10FileServiceLib", "LR-10FileServiceLib\LR-10FileServiceLib.csproj", "{78174FED-EAE0-40CC-B063-D53C81139B08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F0BAA33-0208-47DE-8046-49341C246B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0BAA33-0208-47DE-8046-49341C246B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0BAA33-0208-47DE-8046-49341C246B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0BAA33-0208-47DE-8046-49341C246B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78174FED-EAE0-40CC-B063-D53C81139B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78174FED-EAE0-40CC-B063-D53C81139B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78174FED-EAE0-40CC-B063-D53C81139B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78174FED-EAE0-40CC-B063-D53C81139B08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

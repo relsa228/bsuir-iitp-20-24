@@ -1,0 +1,16 @@
+C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_01/testbench.sv {1 {vlog -work work -vopt -sv -nocovercells C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_01/testbench.sv
+Model Technology ModelSim SE vlog 6.5b Compiler 2009.05 May 21 2009
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_01/lab02_01.sv {1 {vlog -work work -vopt -sv -nocovercells C:/Users/ralia/Desktop/git/csa-2022/lab02/lab02_01/lab02_01.sv
+Model Technology ModelSim SE vlog 6.5b Compiler 2009.05 May 21 2009
+-- Compiling module flopR
+-- Compiling module lab02_01
+
+Top level modules:
+	lab02_01
+
+} {} {}}

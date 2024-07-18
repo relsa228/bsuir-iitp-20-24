@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "SinIntegrate/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/SinIntegrate.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SinIntegrate.dll": {}
+        }
+      },
+      "WorkerLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/WorkerLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WorkerLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SinIntegrate/1.0.0": {
+      "type": "project",
+      "path": "../SinIntegrate/SinIntegrate.csproj",
+      "msbuildProject": "../SinIntegrate/SinIntegrate.csproj"
+    },
+    "WorkerLib/1.0.0": {
+      "type": "project",
+      "path": "../WorkerLib/WorkerLib.csproj",
+      "msbuildProject": "../WorkerLib/WorkerLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "SinIntegrate >= 1.0.0",
+      "WorkerLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ralia\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ralia\\Desktop\\labs git\\ISP\\3 sem\\LR-11\\LR-11\\LR-11.csproj",
+      "projectName": "LR-11",
+      "projectPath": "C:\\Users\\ralia\\Desktop\\labs git\\ISP\\3 sem\\LR-11\\LR-11\\LR-11.csproj",
+      "packagesPath": "C:\\Users\\ralia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ralia\\Desktop\\labs git\\ISP\\3 sem\\LR-11\\LR-11\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ralia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\ralia\\Desktop\\labs git\\ISP\\3 sem\\LR-11\\SinIntegrate\\SinIntegrate.csproj": {
+              "projectPath": "C:\\Users\\ralia\\Desktop\\labs git\\ISP\\3 sem\\LR-11\\SinIntegrate\\SinIntegrate.csproj"
+            },
+            "C:\\Users\\ralia\\Desktop\\labs git\\ISP\\3 sem\\LR-11\\WorkerLib\\WorkerLib.csproj": {
+              "projectPath": "C:\\Users\\ralia\\Desktop\\labs git\\ISP\\3 sem\\LR-11\\WorkerLib\\WorkerLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-8\LR-8\bin\Debug\net5.0\LR-8.exe
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-8\LR-8\bin\Debug\net5.0\LR-8.deps.json
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-8\LR-8\bin\Debug\net5.0\LR-8.runtimeconfig.json
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-8\LR-8\bin\Debug\net5.0\LR-8.runtimeconfig.dev.json
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-8\LR-8\bin\Debug\net5.0\LR-8.dll
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-8\LR-8\bin\Debug\net5.0\ref\LR-8.dll
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-8\LR-8\bin\Debug\net5.0\LR-8.pdb
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-8\LR-8\obj\Debug\net5.0\LR-8.csprojAssemblyReference.cache
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-8\LR-8\obj\Debug\net5.0\LR-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-8\LR-8\obj\Debug\net5.0\LR-8.AssemblyInfoInputs.cache
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-8\LR-8\obj\Debug\net5.0\LR-8.AssemblyInfo.cs
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-8\LR-8\obj\Debug\net5.0\LR-8.csproj.CoreCompileInputs.cache
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-8\LR-8\obj\Debug\net5.0\LR-8.dll
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-8\LR-8\obj\Debug\net5.0\ref\LR-8.dll
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-8\LR-8\obj\Debug\net5.0\LR-8.pdb
+C:\Users\ralia\Desktop\labs git\ISP\3 sem\LR-8\LR-8\obj\Debug\net5.0\LR-8.genruntimeconfig.cache

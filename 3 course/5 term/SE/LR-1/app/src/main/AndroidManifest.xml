@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
+            android:allowBackup="true"
+            android:icon="@mipmap/ic_launcher"
+            android:label="Quarter pounder"
+            android:roundIcon="@mipmap/ic_launcher_round"
+            android:supportsRtl="true"
+            android:name="com.orm.SugarApp"
+            android:theme="@style/Theme.Quarter_pounder">
+        <activity
+                android:name=".MainActivity"
+                android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="DATABASE"
+            android:value="cryptocurrency.db"/>
+        <meta-data
+                android:name="VERSION"
+                android:value="1"/>
+        <meta-data
+                android:name="QUERY_LOG"
+                android:value="true"/>
+        <meta-data
+                android:name="DOMAIN_PACKAGE_NAME"
+                android:value="com.example.quarter_pounder"/>
+    </application>
+
+</manifest>

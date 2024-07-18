@@ -1,0 +1,116 @@
+<!-- структура для получения выборки таблицы -->
+<SELECT>
+    <columns>
+        <column>col1</column>
+        <column>col2</column>
+        <column>col3</column>
+    </columns>
+    <from>
+        <tab>tab1</tab>
+    </from>
+    <joins>
+        <join>
+            <type>LEFT JOIN</type>
+            <tab>tab2</tab>
+            <condition>tab1.col1 = tab2.col2</condition>
+        </join>
+    </joins>
+    <where>
+        <condition>col1 = 5</condition>
+        <condition>col2 = 8</condition>
+        <nesting>
+            <nesting_type>IN</nesting_type>
+            <column>col3</column>
+            <SELECT>
+                <columns>
+                    <column>col1</column>
+                    <column>col2</column>
+                    <column>col3</column>
+                </columns>
+                <from>
+                    <tab>tab1</tab>
+                </from>
+                <joins>
+                    <join>
+                        <type>LEFT JOIN</type>
+                        <tab>tab2</tab>
+                        <condition>tab1.col1 = tab2.col2</condition>
+                    </join>
+                </joins>
+                <where>
+                    <condition>col1 = 5</condition>
+                    <condition>col2 = 8</condition>
+                </where>
+            </SELECT>
+        </nesting>
+    </where>
+</SELECT>
+
+<!-- структура для создания таблицы -->
+<create>
+    <name>tab_name</name>
+    <user>usr1</user>
+    <columns>
+        <column>
+            <column_name>col1</column_name>
+            <datatype>VARCHAR</datatype>
+            <not_null>true</not_null>
+            <default>112</default>
+        </column>
+        <column>
+            <column_name>col1</column_name>
+            <datatype>VARCHAR</datatype>
+            <not_null>false</not_null>
+            <default>112</default>
+        </column>
+        <column>
+            <column_name>col1</column_name>
+            <datatype>VARCHAR</datatype>
+            <not_null>true</not_null>
+            <default>112</default>
+        </column>
+    </columns>
+    <constraints>
+        <primary_key>
+            <column_name>id</column_name>
+            <constraint_name>pk_id</constraint_name>
+        </primary_key>
+        <foreing_key>
+            <column_name>id</column_name>
+            <constraint_name>pk_ref</constraint_name>
+            <reference_table>ref_tab</reference_table>
+            <reference_column>ref_col</reference_column>
+        </foreing_key>
+    </constraints>
+</create>
+
+<!-- структура для удаления таблиц -->
+<drop>
+    <table_name>t1</table_name>
+    <table_name>t2</table_name>
+    <table_name>t3</table_name>
+    <table_name>t4</table_name>
+</drop>
+
+<!-- структура для изменения таблицы -->
+<dml>
+    <dml_type>update</dml_type>
+    <affect_table>tab1</affect_table>
+    <affect_columns>
+        <column>col1</column>
+        <column>col2</column>
+        <column>col3</column>
+        <column>col4</column>
+        <column>col5</column>
+    </affect_columns>
+    <new_values>
+        <value>1</value>
+        <value>2</value>
+        <value>3</value>
+        <value>4</value>
+        <value>5</value>
+    </new_values>
+    <where>
+        <condition>col1 = 5</condition>
+    </where>
+</dml>
